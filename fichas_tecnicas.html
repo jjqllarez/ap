@@ -297,7 +297,7 @@
           <!-- Columna Izquierda (5 columnas) -->
           <div class="col-span-5 flex flex-col">
             <!-- Contenedor Imagen Principal con Placeholder interactivo -->
-            <div class="relative w-full h-[140px] bg-slate-50 border border-slate-200 rounded-lg overflow-hidden flex flex-col items-center justify-center p-1.5 mb-2 group cursor-pointer hover:border-slate-400 transition" onclick="triggerImgUpload('M09_hero')">
+            <div class="relative w-full h-[140px] bg-slate-50 border border-slate-200 rounded-lg overflow-hidden flex flex-col items-center justify-center p-1.5 mb-2 group cursor-pointer hover:border-slate-400 transition" onclick="triggerImgUpload('M09_hero')" ondragover="event.preventDefault();" ondrop="handleImgDrop(event, 'M09_hero')">
               <img id="img_M09_hero" src="assets/minivan_m09_hero.jpg" class=" w-full h-full object-contain z-0" alt="DONGFENG MINIVAN PASAJEROS · 11 PUESTOS" />
               <div id="ph_M09_hero" class="hidden text-center z-1 flex flex-col items-center justify-center p-2">
                 <svg class="w-8 h-8 text-slate-300 group-hover:text-slate-700 transition mb-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>
@@ -900,9 +900,9 @@
           <!-- Columna Izquierda (5 columnas) -->
           <div class="col-span-5 flex flex-col">
             <!-- Contenedor Imagen Principal con Placeholder interactivo -->
-            <div class="relative w-full h-[140px] bg-slate-50 border border-slate-200 rounded-lg overflow-hidden flex flex-col items-center justify-center p-1.5 mb-2 group cursor-pointer hover:border-slate-400 transition" onclick="triggerImgUpload('MINI-CS_hero')">
-              <img id="img_MINI-CS_hero" src="assets/minitruck_cs.jpg" class=" w-full h-full object-contain z-0" alt="DONGFENG 2T-MINI TRUCK · CABINA SENCILLA" />
-              <div id="ph_MINI-CS_hero" class="hidden text-center z-1 flex flex-col items-center justify-center p-2">
+            <div class="relative w-full h-[140px] bg-slate-50 border border-slate-200 rounded-lg overflow-hidden flex flex-col items-center justify-center p-1.5 mb-2 group cursor-pointer hover:border-slate-400 transition" onclick="triggerImgUpload('MINI-CS_hero')" ondragover="event.preventDefault();" ondrop="handleImgDrop(event, 'MINI-CS_hero')">
+              <img id="img_MINI-CS_hero" src="" class="hidden w-full h-full object-contain z-0" alt="DONGFENG 2T-MINI TRUCK · CABINA SENCILLA" />
+              <div id="ph_MINI-CS_hero" class=" text-center z-1 flex flex-col items-center justify-center p-2">
                 <svg class="w-8 h-8 text-slate-300 group-hover:text-slate-700 transition mb-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>
                 <span class="text-[9.5px] font-bold text-slate-500 group-hover:text-slate-900 transition">Clic para cargar imagen del vehículo</span>
                 <span class="text-[8px] text-slate-400">PNG, JPG, WebP (o arrastrar aquí)</span>
@@ -1609,9 +1609,9 @@
           <!-- Columna Izquierda (5 columnas) -->
           <div class="col-span-5 flex flex-col">
             <!-- Contenedor Imagen Principal con Placeholder interactivo -->
-            <div class="relative w-full h-[140px] bg-slate-50 border border-slate-200 rounded-lg overflow-hidden flex flex-col items-center justify-center p-1.5 mb-2 group cursor-pointer hover:border-slate-400 transition" onclick="triggerImgUpload('MINI-CD_hero')">
-              <img id="img_MINI-CD_hero" src="assets/minitruck_cd.webp" class=" w-full h-full object-contain z-0" alt="DONGFENG 2T-MINI TRUCK · CABINA DOBLE" />
-              <div id="ph_MINI-CD_hero" class="hidden text-center z-1 flex flex-col items-center justify-center p-2">
+            <div class="relative w-full h-[140px] bg-slate-50 border border-slate-200 rounded-lg overflow-hidden flex flex-col items-center justify-center p-1.5 mb-2 group cursor-pointer hover:border-slate-400 transition" onclick="triggerImgUpload('MINI-CD_hero')" ondragover="event.preventDefault();" ondrop="handleImgDrop(event, 'MINI-CD_hero')">
+              <img id="img_MINI-CD_hero" src="" class="hidden w-full h-full object-contain z-0" alt="DONGFENG 2T-MINI TRUCK · CABINA DOBLE" />
+              <div id="ph_MINI-CD_hero" class=" text-center z-1 flex flex-col items-center justify-center p-2">
                 <svg class="w-8 h-8 text-slate-300 group-hover:text-slate-700 transition mb-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>
                 <span class="text-[9.5px] font-bold text-slate-500 group-hover:text-slate-900 transition">Clic para cargar imagen del vehículo</span>
                 <span class="text-[8px] text-slate-400">PNG, JPG, WebP (o arrastrar aquí)</span>
@@ -2318,7 +2318,7 @@
           <!-- Columna Izquierda (5 columnas) -->
           <div class="col-span-5 flex flex-col">
             <!-- Contenedor Imagen Principal con Placeholder interactivo -->
-            <div class="relative w-full h-[140px] bg-slate-50 border border-slate-200 rounded-lg overflow-hidden flex flex-col items-center justify-center p-1.5 mb-2 group cursor-pointer hover:border-slate-400 transition" onclick="triggerImgUpload('VR210_hero')">
+            <div class="relative w-full h-[140px] bg-slate-50 border border-slate-200 rounded-lg overflow-hidden flex flex-col items-center justify-center p-1.5 mb-2 group cursor-pointer hover:border-slate-400 transition" onclick="triggerImgUpload('VR210_hero')" ondragover="event.preventDefault();" ondrop="handleImgDrop(event, 'VR210_hero')">
               <img id="img_VR210_hero" src="assets/vr210_vehiculo.png" class=" w-full h-full object-contain z-0" alt="DONGFENG VR210 · 12 TON" />
               <div id="ph_VR210_hero" class="hidden text-center z-1 flex flex-col items-center justify-center p-2">
                 <svg class="w-8 h-8 text-slate-300 group-hover:text-slate-700 transition mb-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>
@@ -2901,7 +2901,7 @@
           <!-- Columna Izquierda (5 columnas) -->
           <div class="col-span-5 flex flex-col">
             <!-- Contenedor Imagen Principal con Placeholder interactivo -->
-            <div class="relative w-full h-[140px] bg-slate-50 border border-slate-200 rounded-lg overflow-hidden flex flex-col items-center justify-center p-1.5 mb-2 group cursor-pointer hover:border-slate-400 transition" onclick="triggerImgUpload('Z16A_hero')">
+            <div class="relative w-full h-[140px] bg-slate-50 border border-slate-200 rounded-lg overflow-hidden flex flex-col items-center justify-center p-1.5 mb-2 group cursor-pointer hover:border-slate-400 transition" onclick="triggerImgUpload('Z16A_hero')" ondragover="event.preventDefault();" ondrop="handleImgDrop(event, 'Z16A_hero')">
               <img id="img_Z16A_hero" src="assets/z9_hero.jpg" class=" w-full h-full object-contain z-0" alt="DONGFENG Z9 COMERCIAL · 4WD MT" />
               <div id="ph_Z16A_hero" class="hidden text-center z-1 flex flex-col items-center justify-center p-2">
                 <svg class="w-8 h-8 text-slate-300 group-hover:text-slate-700 transition mb-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>
@@ -3635,7 +3635,7 @@
           <!-- Columna Izquierda (5 columnas) -->
           <div class="col-span-5 flex flex-col">
             <!-- Contenedor Imagen Principal con Placeholder interactivo -->
-            <div class="relative w-full h-[140px] bg-slate-50 border border-slate-200 rounded-lg overflow-hidden flex flex-col items-center justify-center p-1.5 mb-2 group cursor-pointer hover:border-slate-400 transition" onclick="triggerImgUpload('Z20A_hero')">
+            <div class="relative w-full h-[140px] bg-slate-50 border border-slate-200 rounded-lg overflow-hidden flex flex-col items-center justify-center p-1.5 mb-2 group cursor-pointer hover:border-slate-400 transition" onclick="triggerImgUpload('Z20A_hero')" ondragover="event.preventDefault();" ondrop="handleImgDrop(event, 'Z20A_hero')">
               <img id="img_Z20A_hero" src="assets/z9_hero.jpg" class=" w-full h-full object-contain z-0" alt="DONGFENG Z9 COMERCIAL · 4WD AT" />
               <div id="ph_Z20A_hero" class="hidden text-center z-1 flex flex-col items-center justify-center p-2">
                 <svg class="w-8 h-8 text-slate-300 group-hover:text-slate-700 transition mb-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>
@@ -4369,7 +4369,7 @@
           <!-- Columna Izquierda (5 columnas) -->
           <div class="col-span-5 flex flex-col">
             <!-- Contenedor Imagen Principal con Placeholder interactivo -->
-            <div class="relative w-full h-[140px] bg-slate-50 border border-slate-200 rounded-lg overflow-hidden flex flex-col items-center justify-center p-1.5 mb-2 group cursor-pointer hover:border-slate-400 transition" onclick="triggerImgUpload('Z42A_hero')">
+            <div class="relative w-full h-[140px] bg-slate-50 border border-slate-200 rounded-lg overflow-hidden flex flex-col items-center justify-center p-1.5 mb-2 group cursor-pointer hover:border-slate-400 transition" onclick="triggerImgUpload('Z42A_hero')" ondragover="event.preventDefault();" ondrop="handleImgDrop(event, 'Z42A_hero')">
               <img id="img_Z42A_hero" src="assets/z9_hero.jpg" class=" w-full h-full object-contain z-0" alt="DONGFENG Z9 PASSENGER · 4WD 8AT" />
               <div id="ph_Z42A_hero" class="hidden text-center z-1 flex flex-col items-center justify-center p-2">
                 <svg class="w-8 h-8 text-slate-300 group-hover:text-slate-700 transition mb-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>
@@ -5103,7 +5103,7 @@
           <!-- Columna Izquierda (5 columnas) -->
           <div class="col-span-5 flex flex-col">
             <!-- Contenedor Imagen Principal con Placeholder interactivo -->
-            <div class="relative w-full h-[140px] bg-slate-50 border border-slate-200 rounded-lg overflow-hidden flex flex-col items-center justify-center p-1.5 mb-2 group cursor-pointer hover:border-slate-400 transition" onclick="triggerImgUpload('X21B_hero')">
+            <div class="relative w-full h-[140px] bg-slate-50 border border-slate-200 rounded-lg overflow-hidden flex flex-col items-center justify-center p-1.5 mb-2 group cursor-pointer hover:border-slate-400 transition" onclick="triggerImgUpload('X21B_hero')" ondragover="event.preventDefault();" ondrop="handleImgDrop(event, 'X21B_hero')">
               <img id="img_X21B_hero" src="assets/z9_hero.jpg" class=" w-full h-full object-contain z-0" alt="DONGFENG Z9 HYBRID PHEV · 4WD" />
               <div id="ph_X21B_hero" class="hidden text-center z-1 flex flex-col items-center justify-center p-2">
                 <svg class="w-8 h-8 text-slate-300 group-hover:text-slate-700 transition mb-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>
@@ -5842,7 +5842,7 @@
           <!-- Columna Izquierda (5 columnas) -->
           <div class="col-span-5 flex flex-col">
             <!-- Contenedor Imagen Principal con Placeholder interactivo -->
-            <div class="relative w-full h-[140px] bg-slate-50 border border-slate-200 rounded-lg overflow-hidden flex flex-col items-center justify-center p-1.5 mb-2 group cursor-pointer hover:border-slate-400 transition" onclick="triggerImgUpload('Z11A_hero')">
+            <div class="relative w-full h-[140px] bg-slate-50 border border-slate-200 rounded-lg overflow-hidden flex flex-col items-center justify-center p-1.5 mb-2 group cursor-pointer hover:border-slate-400 transition" onclick="triggerImgUpload('Z11A_hero')" ondragover="event.preventDefault();" ondrop="handleImgDrop(event, 'Z11A_hero')">
               <img id="img_Z11A_hero" src="assets/rich6_hero.webp" class=" w-full h-full object-contain z-0" alt="DONGFENG RICH 6 · 4X2 5MT" />
               <div id="ph_Z11A_hero" class="hidden text-center z-1 flex flex-col items-center justify-center p-2">
                 <svg class="w-8 h-8 text-slate-300 group-hover:text-slate-700 transition mb-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>
@@ -6571,7 +6571,7 @@
           <!-- Columna Izquierda (5 columnas) -->
           <div class="col-span-5 flex flex-col">
             <!-- Contenedor Imagen Principal con Placeholder interactivo -->
-            <div class="relative w-full h-[140px] bg-slate-50 border border-slate-200 rounded-lg overflow-hidden flex flex-col items-center justify-center p-1.5 mb-2 group cursor-pointer hover:border-slate-400 transition" onclick="triggerImgUpload('Z22A_hero')">
+            <div class="relative w-full h-[140px] bg-slate-50 border border-slate-200 rounded-lg overflow-hidden flex flex-col items-center justify-center p-1.5 mb-2 group cursor-pointer hover:border-slate-400 transition" onclick="triggerImgUpload('Z22A_hero')" ondragover="event.preventDefault();" ondrop="handleImgDrop(event, 'Z22A_hero')">
               <img id="img_Z22A_hero" src="assets/rich6_hero.webp" class=" w-full h-full object-contain z-0" alt="DONGFENG RICH 6 · 4X4 5MT" />
               <div id="ph_Z22A_hero" class="hidden text-center z-1 flex flex-col items-center justify-center p-2">
                 <svg class="w-8 h-8 text-slate-300 group-hover:text-slate-700 transition mb-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>
@@ -7300,7 +7300,7 @@
           <!-- Columna Izquierda (5 columnas) -->
           <div class="col-span-5 flex flex-col">
             <!-- Contenedor Imagen Principal con Placeholder interactivo -->
-            <div class="relative w-full h-[140px] bg-slate-50 border border-slate-200 rounded-lg overflow-hidden flex flex-col items-center justify-center p-1.5 mb-2 group cursor-pointer hover:border-slate-400 transition" onclick="triggerImgUpload('Y38G_hero')">
+            <div class="relative w-full h-[140px] bg-slate-50 border border-slate-200 rounded-lg overflow-hidden flex flex-col items-center justify-center p-1.5 mb-2 group cursor-pointer hover:border-slate-400 transition" onclick="triggerImgUpload('Y38G_hero')" ondragover="event.preventDefault();" ondrop="handleImgDrop(event, 'Y38G_hero')">
               <img id="img_Y38G_hero" src="assets/rich6_hero.webp" class=" w-full h-full object-contain z-0" alt="DONGFENG RICH 6 PRO · 4X4 8AT" />
               <div id="ph_Y38G_hero" class="hidden text-center z-1 flex flex-col items-center justify-center p-2">
                 <svg class="w-8 h-8 text-slate-300 group-hover:text-slate-700 transition mb-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>
@@ -8029,7 +8029,7 @@
           <!-- Columna Izquierda (5 columnas) -->
           <div class="col-span-5 flex flex-col">
             <!-- Contenedor Imagen Principal con Placeholder interactivo -->
-            <div class="relative w-full h-[140px] bg-slate-50 border border-slate-200 rounded-lg overflow-hidden flex flex-col items-center justify-center p-1.5 mb-2 group cursor-pointer hover:border-slate-400 transition" onclick="triggerImgUpload('Y38E_hero')">
+            <div class="relative w-full h-[140px] bg-slate-50 border border-slate-200 rounded-lg overflow-hidden flex flex-col items-center justify-center p-1.5 mb-2 group cursor-pointer hover:border-slate-400 transition" onclick="triggerImgUpload('Y38E_hero')" ondragover="event.preventDefault();" ondrop="handleImgDrop(event, 'Y38E_hero')">
               <img id="img_Y38E_hero" src="assets/rich6_hero.webp" class=" w-full h-full object-contain z-0" alt="DONGFENG RICH 6 PRO · 4X4 6MT" />
               <div id="ph_Y38E_hero" class="hidden text-center z-1 flex flex-col items-center justify-center p-2">
                 <svg class="w-8 h-8 text-slate-300 group-hover:text-slate-700 transition mb-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>
@@ -8758,7 +8758,7 @@
           <!-- Columna Izquierda (5 columnas) -->
           <div class="col-span-5 flex flex-col">
             <!-- Contenedor Imagen Principal con Placeholder interactivo -->
-            <div class="relative w-full h-[140px] bg-slate-50 border border-slate-200 rounded-lg overflow-hidden flex flex-col items-center justify-center p-1.5 mb-2 group cursor-pointer hover:border-slate-400 transition" onclick="triggerImgUpload('W91A_hero')">
+            <div class="relative w-full h-[140px] bg-slate-50 border border-slate-200 rounded-lg overflow-hidden flex flex-col items-center justify-center p-1.5 mb-2 group cursor-pointer hover:border-slate-400 transition" onclick="triggerImgUpload('W91A_hero')" ondragover="event.preventDefault();" ondrop="handleImgDrop(event, 'W91A_hero')">
               <img id="img_W91A_hero" src="assets/paladin_hero.jpg" class=" w-full h-full object-contain z-0" alt="DONGFENG PALADIN SUV · 4X2 8AT" />
               <div id="ph_W91A_hero" class="hidden text-center z-1 flex flex-col items-center justify-center p-2">
                 <svg class="w-8 h-8 text-slate-300 group-hover:text-slate-700 transition mb-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>
@@ -9492,7 +9492,7 @@
           <!-- Columna Izquierda (5 columnas) -->
           <div class="col-span-5 flex flex-col">
             <!-- Contenedor Imagen Principal con Placeholder interactivo -->
-            <div class="relative w-full h-[140px] bg-slate-50 border border-slate-200 rounded-lg overflow-hidden flex flex-col items-center justify-center p-1.5 mb-2 group cursor-pointer hover:border-slate-400 transition" onclick="triggerImgUpload('W92B_hero')">
+            <div class="relative w-full h-[140px] bg-slate-50 border border-slate-200 rounded-lg overflow-hidden flex flex-col items-center justify-center p-1.5 mb-2 group cursor-pointer hover:border-slate-400 transition" onclick="triggerImgUpload('W92B_hero')" ondragover="event.preventDefault();" ondrop="handleImgDrop(event, 'W92B_hero')">
               <img id="img_W92B_hero" src="assets/paladin_hero.jpg" class=" w-full h-full object-contain z-0" alt="DONGFENG PALADIN SUV · 4X4 8AT" />
               <div id="ph_W92B_hero" class="hidden text-center z-1 flex flex-col items-center justify-center p-2">
                 <svg class="w-8 h-8 text-slate-300 group-hover:text-slate-700 transition mb-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>
@@ -10226,7 +10226,7 @@
           <!-- Columna Izquierda (5 columnas) -->
           <div class="col-span-5 flex flex-col">
             <!-- Contenedor Imagen Principal con Placeholder interactivo -->
-            <div class="relative w-full h-[140px] bg-slate-50 border border-slate-200 rounded-lg overflow-hidden flex flex-col items-center justify-center p-1.5 mb-2 group cursor-pointer hover:border-slate-400 transition" onclick="triggerImgUpload('W92C_hero')">
+            <div class="relative w-full h-[140px] bg-slate-50 border border-slate-200 rounded-lg overflow-hidden flex flex-col items-center justify-center p-1.5 mb-2 group cursor-pointer hover:border-slate-400 transition" onclick="triggerImgUpload('W92C_hero')" ondragover="event.preventDefault();" ondrop="handleImgDrop(event, 'W92C_hero')">
               <img id="img_W92C_hero" src="assets/paladin_hero.jpg" class=" w-full h-full object-contain z-0" alt="DONGFENG PALADIN SUV · 4X4 8AT ADAS" />
               <div id="ph_W92C_hero" class="hidden text-center z-1 flex flex-col items-center justify-center p-2">
                 <svg class="w-8 h-8 text-slate-300 group-hover:text-slate-700 transition mb-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>
@@ -10960,7 +10960,7 @@
           <!-- Columna Izquierda (5 columnas) -->
           <div class="col-span-5 flex flex-col">
             <!-- Contenedor Imagen Principal con Placeholder interactivo -->
-            <div class="relative w-full h-[140px] bg-slate-50 border border-slate-200 rounded-lg overflow-hidden flex flex-col items-center justify-center p-1.5 mb-2 group cursor-pointer hover:border-slate-400 transition" onclick="triggerImgUpload('T5-LUX_hero')">
+            <div class="relative w-full h-[140px] bg-slate-50 border border-slate-200 rounded-lg overflow-hidden flex flex-col items-center justify-center p-1.5 mb-2 group cursor-pointer hover:border-slate-400 transition" onclick="triggerImgUpload('T5-LUX_hero')" ondragover="event.preventDefault();" ondrop="handleImgDrop(event, 'T5-LUX_hero')">
               <img id="img_T5-LUX_hero" src="assets/t5_hero.jpg" class=" w-full h-full object-contain z-0" alt="FORTHING T5 EVO · 1.5TD LUXURY 7DCT" />
               <div id="ph_T5-LUX_hero" class="hidden text-center z-1 flex flex-col items-center justify-center p-2">
                 <svg class="w-8 h-8 text-slate-300 group-hover:text-slate-700 transition mb-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>
@@ -11694,7 +11694,7 @@
           <!-- Columna Izquierda (5 columnas) -->
           <div class="col-span-5 flex flex-col">
             <!-- Contenedor Imagen Principal con Placeholder interactivo -->
-            <div class="relative w-full h-[140px] bg-slate-50 border border-slate-200 rounded-lg overflow-hidden flex flex-col items-center justify-center p-1.5 mb-2 group cursor-pointer hover:border-slate-400 transition" onclick="triggerImgUpload('T5-EXC_hero')">
+            <div class="relative w-full h-[140px] bg-slate-50 border border-slate-200 rounded-lg overflow-hidden flex flex-col items-center justify-center p-1.5 mb-2 group cursor-pointer hover:border-slate-400 transition" onclick="triggerImgUpload('T5-EXC_hero')" ondragover="event.preventDefault();" ondrop="handleImgDrop(event, 'T5-EXC_hero')">
               <img id="img_T5-EXC_hero" src="assets/t5_hero.jpg" class=" w-full h-full object-contain z-0" alt="FORTHING T5 EVO · 1.5TD EXCLUSIVE 7DCT" />
               <div id="ph_T5-EXC_hero" class="hidden text-center z-1 flex flex-col items-center justify-center p-2">
                 <svg class="w-8 h-8 text-slate-300 group-hover:text-slate-700 transition mb-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>
@@ -12446,6 +12446,25 @@
         }
       };
       reader.readAsDataURL(file);
+    }
+
+    function handleImgDrop(e, targetId) {
+      e.preventDefault();
+      e.stopPropagation();
+      if (e.dataTransfer && e.dataTransfer.files && e.dataTransfer.files[0]) {
+        const file = e.dataTransfer.files[0];
+        const reader = new FileReader();
+        reader.onload = function(evt) {
+          const img = document.getElementById('img_' + targetId);
+          const ph = document.getElementById('ph_' + targetId);
+          if (img && ph) {
+            img.src = evt.target.result;
+            img.classList.remove('hidden');
+            ph.classList.add('hidden');
+          }
+        };
+        reader.readAsDataURL(file);
+      }
     }
   </script>
 </body>

@@ -159,7 +159,7 @@ NEW_MODELS_DATA = [
         "badge_text": "2.0 TONELADAS CS",
         "badge_sub": "TURBODIÉSEL 2.3L 5MT",
         "diagram_label": "2T-MINI TRUCK CS (DIMENSIONES EN MM)",
-        "hero_image": "assets/minitruck_cs.jpg",
+        "hero_image": "",
         "chassis_image": "",
         "cotas": {
             "A": "2.800 mm (Distancia entre ejes)",
@@ -288,7 +288,7 @@ NEW_MODELS_DATA = [
         "badge_text": "2.0 TON DOBLE CABINA",
         "badge_sub": "TURBODIÉSEL 2.3L 5MT",
         "diagram_label": "2T-MINI TRUCK CD (DIMENSIONES EN MM)",
-        "hero_image": "assets/minitruck_cd.webp",
+        "hero_image": "",
         "chassis_image": "",
         "cotas": {
             "A": "3.300 mm (Distancia entre ejes)",

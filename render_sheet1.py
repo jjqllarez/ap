@@ -78,7 +78,7 @@ def render_sheet1(m):
           <!-- Columna Izquierda (5 columnas) -->
           <div class="col-span-5 flex flex-col">
             <!-- Contenedor Imagen Principal con Placeholder interactivo -->
-            <div class="relative w-full h-[140px] bg-slate-50 border border-slate-200 rounded-lg overflow-hidden flex flex-col items-center justify-center p-1.5 mb-2 group cursor-pointer hover:border-slate-400 transition" onclick="triggerImgUpload('{cid}_hero')">
+            <div class="relative w-full h-[140px] bg-slate-50 border border-slate-200 rounded-lg overflow-hidden flex flex-col items-center justify-center p-1.5 mb-2 group cursor-pointer hover:border-slate-400 transition" onclick="triggerImgUpload('{cid}_hero')" ondragover="event.preventDefault();" ondrop="handleImgDrop(event, '{cid}_hero')">
               <img id="img_{cid}_hero" src="{hero_img}" class="{img_hidden} w-full h-full object-contain z-0" alt="{m['title_h1']}" />
               <div id="ph_{cid}_hero" class="{ph_hidden} text-center z-1 flex flex-col items-center justify-center p-2">
                 <svg class="w-8 h-8 text-slate-300 group-hover:text-slate-700 transition mb-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>

@@ -272,6 +272,25 @@ def generate_html():
       }};
       reader.readAsDataURL(file);
     }}
+
+    function handleImgDrop(e, targetId) {{
+      e.preventDefault();
+      e.stopPropagation();
+      if (e.dataTransfer && e.dataTransfer.files && e.dataTransfer.files[0]) {{
+        const file = e.dataTransfer.files[0];
+        const reader = new FileReader();
+        reader.onload = function(evt) {{
+          const img = document.getElementById('img_' + targetId);
+          const ph = document.getElementById('ph_' + targetId);
+          if (img && ph) {{
+            img.src = evt.target.result;
+            img.classList.remove('hidden');
+            ph.classList.add('hidden');
+          }}
+        }};
+        reader.readAsDataURL(file);
+      }}
+    }}
   </script>
 </body>
 </html>

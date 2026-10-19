@@ -1,0 +1,5508 @@
+[
+  {
+    "id": "M09",
+    "tab": "★ Minivan 11 Pasajeros (M09)",
+    "title_h1": "DONGFENG MINIVAN PASAJEROS · 11 PUESTOS",
+    "title_h2": "DONGFENG MINIVAN PASAJEROS",
+    "vehiculo": "Transporte de Pasajeros / Minibús Utilitario",
+    "marca": "DONGFENG",
+    "modelo": "Minivan Pasajeros - 11",
+    "version": "M09-4353Z-WN",
+    "cabina": "Minivan cerrada integral 11 plazas (4 filas)",
+    "traccion": "4x2 (Tracción Trasera - RWD)",
+    "badge_text": "MINIVAN 11 PUESTOS",
+    "badge_sub": "1.6L GASOLINA 5MT",
+    "diagram_label": "MINIVAN M09 (DIMENSIONES EN MM)",
+    "hero_image": "assets/minivan_m09_hero.jpg",
+    "cotas_title": "COTAS DEL CHASIS (MM)",
+    "cotas_labels": {
+      "A": "A · Distancia entre ejes",
+      "B": "B · Voladizo trasero",
+      "C": "C · Longitud total",
+      "D": "D · Eje delantero a cabina (conductor)",
+      "E": "E · Altura piso de carga / maletero",
+      "F": "F · Voladizo delantero",
+      "G": "G · Ancho de vía (Trocha Del. / Tras.)",
+      "H": "H · Altura total",
+      "I": "I · Largo zona compartimiento pasajeros"
+    },
+    "cotas": {
+      "A": "3.000 mm",
+      "B": "1.225 mm",
+      "C": "5.135 mm",
+      "D": "910 mm",
+      "E": "680 mm",
+      "F": "910 mm",
+      "G": "1.445 mm / 1.420 mm",
+      "H": "1.990 mm",
+      "I": "3.100 mm"
+    },
+    "extra_dim": {
+      "longitud": "5.135 mm",
+      "ancho": "1.720 mm",
+      "alto": "1.990 mm",
+      "distancia_ejes": "3.000 mm",
+      "voladizo_del": "910 mm",
+      "voladizo_tras": "1.225 mm",
+      "despeje": "170 mm",
+      "radio_giro": "5.9 m"
+    },
+    "s1": {
+      "motor": [
+        [
+          "Tipo / Modelo",
+          "Motor 1.6L 4 cilindros en línea DOHC 16V MIVEC (Mitsubishi 4A92)"
+        ],
+        [
+          "Admisión",
+          "Aspiración atmosférica multipunto secuencial"
+        ],
+        [
+          "Inyección",
+          "Inyección electrónica multipunto de alta precisión (MPI)"
+        ],
+        [
+          "Cilindrada",
+          "1.590 cc (1.6L)"
+        ],
+        [
+          "Diámetro x Carrera",
+          "75,0 mm × 89,9 mm"
+        ],
+        [
+          "Potencia máxima",
+          "122 HP (90 kW) @ 6.000 rpm"
+        ],
+        [
+          "Torque máximo",
+          "151 Nm @ 4.000 rpm"
+        ],
+        [
+          "Combustible",
+          "Gasolina regular sin plomo (91+ octanos)"
+        ],
+        [
+          "Norma de emisión",
+          "Euro 4 / Euro 5"
+        ]
+      ],
+      "pesos": [
+        [
+          "Tara (Peso en vacío)",
+          "1.660 kg"
+        ],
+        [
+          "Peso bruto vehicular (PBV)",
+          "2.480 kg"
+        ],
+        [
+          "Capacidad de carga neta",
+          "820 kg"
+        ],
+        [
+          "Capacidad de pasajeros",
+          "11 ocupantes (incluyendo conductor)"
+        ]
+      ],
+      "trans": [
+        [
+          "Tipo",
+          "Transmisión manual sincronizada"
+        ],
+        [
+          "Velocidades",
+          "5 velocidades hacia adelante + 1 reversa (5MT)"
+        ],
+        [
+          "Tracción",
+          "Tracción 4x2 Trasera (RWD con cardán y diferencial)"
+        ],
+        [
+          "Relación final",
+          "Optimizada para transporte urbano y sub-urbano"
+        ]
+      ],
+      "embrague": [
+        [
+          "Tipo",
+          "Monodisco seco con resorte de diafragma"
+        ],
+        [
+          "Accionamiento",
+          "Control hidráulico de bajo esfuerzo"
+        ]
+      ],
+      "electrico": [
+        [
+          "Voltaje del sistema",
+          "12 V de corriente continua"
+        ],
+        [
+          "Batería",
+          "12 V / 60 Ah libre de mantenimiento"
+        ],
+        [
+          "Alternador",
+          "12 V / 90 A con regulador integrado"
+        ]
+      ],
+      "comb": [
+        [
+          "Tanque de combustible",
+          "Tanque de polímero de seguridad de alta resistencia"
+        ],
+        [
+          "Capacidad total",
+          "55 Litros (14.5 Galones)"
+        ],
+        [
+          "Alimentación",
+          "Bomba sumergida con filtro de alta eficiencia"
+        ]
+      ],
+      "frenos": [
+        [
+          "Sistema de frenos",
+          "Hidráulico de doble circuito cruzado con servoasistencia por vacío"
+        ],
+        [
+          "Frenos delanteros",
+          "Discos ventilados"
+        ],
+        [
+          "Frenos traseros",
+          "Tambor autorregulable de alta fricción"
+        ],
+        [
+          "Asistencias de frenado",
+          "ABS (Antibloqueo) + EBD (Distribución Electrónica)"
+        ],
+        [
+          "Freno de estacionamiento",
+          "Mecánico por cable sobre ruedas traseras"
+        ]
+      ],
+      "fluidos": [
+        [
+          "Aceite de motor",
+          "4.0 L (Sintético SAE 10W-40 / 5W-30)"
+        ],
+        [
+          "Líquido refrigerante",
+          "6.5 L (Refrigerante larga vida al 50%)"
+        ],
+        [
+          "Aceite de transmisión",
+          "2.1 L (SAE 75W-90 GL-4)"
+        ],
+        [
+          "Aceite de diferencial trasero",
+          "1.5 L (SAE 80W-90 / 85W-90 GL-5)"
+        ],
+        [
+          "Líquido de frenos",
+          "0.8 L (DOT 4)"
+        ],
+        [
+          "Lavaparabrisas",
+          "2.5 L"
+        ]
+      ]
+    },
+    "s2": {
+      "cabina_dir": [
+        [
+          "Configuración de asientos",
+          "11 plazas en 4 filas (distribución 2 + 3 + 3 + 3)"
+        ],
+        [
+          "Acceso a cabina",
+          "Puerta lateral corrediza de gran apertura y compuerta trasera vertical"
+        ],
+        [
+          "Dirección",
+          "Asistida hidráulicamente de piñón y cremallera"
+        ],
+        [
+          "Columna de dirección",
+          "Colapsable con ajuste de inclinación vertical"
+        ],
+        [
+          "Visibilidad",
+          "Amplia superficie acristalada panorámica con desempañador posterior"
+        ]
+      ],
+      "eje_del": [
+        [
+          "Tipo de eje",
+          "Independiente tipo MacPherson"
+        ],
+        [
+          "Suspensión",
+          "Resortes helicoidales con amortiguadores telescópicos y barra estabilizadora"
+        ],
+        [
+          "Capacidad de carga eje",
+          "1.150 kg"
+        ],
+        [
+          "Rines",
+          "Acero estampado 15 pulgadas con tazas decorativas (15×6.0J)"
+        ],
+        [
+          "Neumáticos",
+          "195/70 R15C (Servicio de carga / transporte de pasajeros)"
+        ]
+      ],
+      "eje_tras": [
+        [
+          "Tipo de eje",
+          "Eje rígido motriz con diferencial integrado"
+        ],
+        [
+          "Suspensión",
+          "Ballestas longitudinales semielípticas multi-hoja con amortiguadores hidráulicos"
+        ],
+        [
+          "Capacidad de carga eje",
+          "1.550 kg"
+        ],
+        [
+          "Rines",
+          "Acero estampado 15 pulgadas"
+        ],
+        [
+          "Neumáticos",
+          "195/70 R15C"
+        ]
+      ],
+      "chasis": [
+        [
+          "Estructura",
+          "Carrocería autoportante monocasco reforzada de deformación programada"
+        ],
+        [
+          "Tratamiento anticorrosivo",
+          "Fosfatizado e inmersión cataforética completa (E-coat)"
+        ],
+        [
+          "Protección inferior",
+          "Protector de cárter y tratamiento anti-gravilla en bajos"
+        ]
+      ],
+      "interior": [
+        [
+          "Climatización",
+          "Doble sistema de Aire Acondicionado (frontal e independiente con difusores para pasajeros traseros)"
+        ],
+        [
+          "Vidrios y seguros",
+          "Alzacristales eléctricos delanteros y cierre centralizado con mando"
+        ],
+        [
+          "Audio y conectividad",
+          "Radio AM/FM con reproductor USB, Bluetooth y parlantes integrados"
+        ],
+        [
+          "Seguridad pasiva",
+          "Cinturones de seguridad de 3 puntos en plazas delanteras y cinturones para todas las plazas posteriores"
+        ],
+        [
+          "Instrumentación",
+          "Panel digital con velocímetro, odómetro, tacómetro, nivel de combustible y alertas de mantenimiento"
+        ]
+      ]
+    },
+    "chassis_image": "assets/minivan_m09_plano.jpg"
+  },
+  {
+    "id": "MINI-CS",
+    "tab": "★ 2T Mini Truck CS (VH24-625-WZ)",
+    "title_h1": "DONGFENG 2T-MINI TRUCK · CABINA SENCILLA",
+    "title_h2": "DONGFENG 2T-MINI TRUCK CS",
+    "vehiculo": "Camión Ligero Utilitario / Chasis con Tolva",
+    "marca": "DONGFENG",
+    "modelo": "2T-Mini Truck - CS",
+    "version": "VH24-625-WZ",
+    "cabina": "Cabina sencilla abatible 2 puestos",
+    "traccion": "4x2 (Doble rodado trasero)",
+    "badge_text": "2.0 TONELADAS CS",
+    "badge_sub": "TURBODIÉSEL 2.3L 5MT",
+    "diagram_label": "2T-MINI TRUCK CS (DIMENSIONES EN MM)",
+    "hero_image": "assets/minitruck_cs.jpg",
+    "chassis_image": "",
+    "cotas": {
+      "A": "2.800 mm (Distancia entre ejes)",
+      "B": "1.500 mm (Voladizo trasero)",
+      "C": "5.450 mm (Longitud total)",
+      "D": "550 mm (Eje delantero a inicio de tolva)",
+      "E": "820 mm (Altura plataforma de carga al piso)",
+      "F": "1.150 mm (Voladizo delantero)",
+      "G": "1.480 mm / 1.420 mm (Trocha Delantera / Trasera)",
+      "H": "2.050 mm (Altura total de cabina)",
+      "I": "3.400 mm (Largo útil de tolva de carga)"
+    },
+    "extra_dim": {
+      "longitud": "5.450 mm",
+      "ancho": "1.850 mm",
+      "alto": "2.050 mm",
+      "distancia_ejes": "2.800 mm",
+      "voladizo_del": "1.150 mm",
+      "voladizo_tras": "1.500 mm",
+      "despeje": "190 mm",
+      "radio_giro": "6.2 m"
+    },
+    "s1": {
+      "motor": [
+        [
+          "Tipo / Denominación",
+          "Motor Turbodiésel 2.3L 4 cilindros en línea"
+        ],
+        [
+          "Admisión",
+          "Turbocompresor con intercooler aire-aire"
+        ],
+        [
+          "Inyección",
+          "Inyección directa Common Rail de alta presión Bosch"
+        ],
+        [
+          "Cilindrada",
+          "2.270 cc (2.3 L)"
+        ],
+        [
+          "Potencia máxima",
+          "95 HP (70 kW) @ 3.200 rpm"
+        ],
+        [
+          "Torque máximo",
+          "240 Nm @ 1.800 - 2.400 rpm"
+        ],
+        [
+          "Combustible",
+          "Diésel automotriz"
+        ],
+        [
+          "Norma de emisión",
+          "Euro 4 / Euro 5"
+        ]
+      ],
+      "pesos": [
+        [
+          "Tara (Peso en vacío)",
+          "1.800 kg"
+        ],
+        [
+          "Peso bruto vehicular (PBV)",
+          "3.800 kg"
+        ],
+        [
+          "Capacidad de carga útil",
+          "2.000 kg (2.0 Toneladas netas homologadas)"
+        ],
+        [
+          "Dimensiones de tolva",
+          "3.400 mm (largo) x 1.750 mm (ancho) x 380 mm (alto de baranda)"
+        ]
+      ],
+      "trans": [
+        [
+          "Tipo",
+          "Transmisión manual mecánica sincronizada"
+        ],
+        [
+          "Velocidades",
+          "5 velocidades hacia adelante + 1 reversa (5MT)"
+        ],
+        [
+          "Tracción",
+          "4x2 posterior con eje cardánico reforzado"
+        ],
+        [
+          "Configuración trasera",
+          "Doble rodado (Dual Rear Wheels) para alta estabilidad y soporte de carga"
+        ]
+      ],
+      "embrague": [
+        [
+          "Tipo",
+          "Monodisco seco con accionamiento hidráulico"
+        ],
+        [
+          "Diámetro de plato",
+          "260 mm de alta durabilidad"
+        ],
+        [
+          "Mando",
+          "Servoasistido para desacople suave y progresivo"
+        ]
+      ],
+      "electrico": [
+        [
+          "Voltaje del sistema",
+          "12 V de servicio pesado"
+        ],
+        [
+          "Batería",
+          "12 V / 80 Ah de libre mantenimiento"
+        ],
+        [
+          "Alternador",
+          "12 V / 85 A con corte inteligente"
+        ]
+      ],
+      "comb": [
+        [
+          "Tanque de combustible",
+          "Tanque de acero con tapa con cerradura y protección antigolpes"
+        ],
+        [
+          "Capacidad total",
+          "65 Litros (17.2 Galones)"
+        ],
+        [
+          "Sedimentador",
+          "Filtro separador de agua primario con sensor y purga manual"
+        ]
+      ],
+      "frenos": [
+        [
+          "Sistema de frenos",
+          "Hidráulico servoasistido con doble circuito independiente"
+        ],
+        [
+          "Frenos delanteros",
+          "Discos ventilados de servicio pesado"
+        ],
+        [
+          "Frenos traseros",
+          "Tambores autoajustables de alta fricción"
+        ],
+        [
+          "Freno auxiliar",
+          "Freno de motor al escape de accionamiento neumático/electroválvula"
+        ],
+        [
+          "Asistencias",
+          "Sistema ABS antibloqueo con sensor de carga en eje trasero"
+        ],
+        [
+          "Freno de estacionamiento",
+          "Mecánico por cable sobre ruedas traseras"
+        ]
+      ],
+      "fluidos": [
+        [
+          "Aceite de motor",
+          "5.5 L (Diésel 15W-40 CI-4 / CH-4)"
+        ],
+        [
+          "Líquido refrigerante",
+          "8.0 L (Refrigerante larga vida al 50%)"
+        ],
+        [
+          "Aceite de transmisión",
+          "2.8 L (SAE 80W-90 GL-5)"
+        ],
+        [
+          "Aceite de diferencial",
+          "2.5 L (SAE 85W-140 GL-5)"
+        ],
+        [
+          "Líquido de frenos",
+          "1.0 L (DOT 4)"
+        ]
+      ]
+    },
+    "s2": {
+      "cabina_dir": [
+        [
+          "Tipo de cabina",
+          "Cabina frontal sobre motor, rebatible para fácil inspección"
+        ],
+        [
+          "Capacidad de pasajeros",
+          "2 plazas (conductor + acompañante) con apoyacabezas"
+        ],
+        [
+          "Dirección",
+          "Dirección hidráulica asistida de recirculación de bolas"
+        ],
+        [
+          "Columna de dirección",
+          "Ajustable en inclinación y colapsable en impacto"
+        ],
+        [
+          "Espejos retrovisores",
+          "Retrovisores dobles panorámicos de gran ángulo y visión de punto ciego"
+        ]
+      ],
+      "eje_del": [
+        [
+          "Tipo de eje",
+          "Viga rígida forjada en sección I (Reverse Elliott)"
+        ],
+        [
+          "Suspensión",
+          "Ballestas semielípticas de 6 hojas con amortiguadores hidráulicos telescópicos"
+        ],
+        [
+          "Capacidad de carga",
+          "1.600 kg"
+        ],
+        [
+          "Rines",
+          "Acero reforzado 15 pulgadas para servicio pesado"
+        ],
+        [
+          "Neumáticos",
+          "185 R15 LT (8PR / Carga reforzada)"
+        ]
+      ],
+      "eje_tras": [
+        [
+          "Tipo de eje",
+          "Eje rígido de servicio pesado con reducción simple cónica hipoide"
+        ],
+        [
+          "Configuración de rodado",
+          "Doble rodado trasero (4 neumáticos posteriores)"
+        ],
+        [
+          "Suspensión",
+          "Ballestas semielípticas multi-hoja principales (6 hojas) + auxiliares (5 hojas)"
+        ],
+        [
+          "Capacidad de carga",
+          "2.800 kg"
+        ],
+        [
+          "Rines",
+          "Acero reforzado 15 pulgadas"
+        ],
+        [
+          "Neumáticos",
+          "185 R15 LT (doble rodado)"
+        ]
+      ],
+      "chasis": [
+        [
+          "Bastidor",
+          "Vigas longitudinales de acero de alta resistencia tipo canal C con travesaños remachados"
+        ],
+        [
+          "Plataforma de carga",
+          "Tolva metálica de piso acanalado de alta fricción con ganchos de amarre"
+        ],
+        [
+          "Compuertas de tolva",
+          "Abatibles en 3 lados (lateral izquierdo, lateral derecho y compuerta posterior)"
+        ],
+        [
+          "Defensa trasera",
+          "Barra de protección anti-empotramiento homologada"
+        ]
+      ],
+      "interior": [
+        [
+          "Climatización",
+          "Aire acondicionado de fábrica con calefactor y desempañador"
+        ],
+        [
+          "Vidrios y seguros",
+          "Alzacristales eléctricos y bloqueo central de puertas"
+        ],
+        [
+          "Audio e info-entretenimiento",
+          "Radio AM/FM con puerto USB, entrada auxiliar y reloj digital"
+        ],
+        [
+          "Instrumentación",
+          "Tablero análogo-digital con tacómetro, odómetro, temperatura y nivel de combustible"
+        ],
+        [
+          "Asientos",
+          "Asiento de conductor regulable longitudinalmente tapizado en vinil de alta durabilidad"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "MINI-CD",
+    "tab": "★ 2T Mini Truck CD (VH24-627-WZ)",
+    "title_h1": "DONGFENG 2T-MINI TRUCK · CABINA DOBLE",
+    "title_h2": "DONGFENG 2T-MINI TRUCK CD",
+    "vehiculo": "Camión Ligero Utilitario / Chasis con Tolva Doble Cabina",
+    "marca": "DONGFENG",
+    "modelo": "2T-Mini Truck - CD",
+    "version": "VH24-627-WZ",
+    "cabina": "Cabina doble 4 puertas 5 plazas",
+    "traccion": "4x2 (Doble rodado trasero)",
+    "badge_text": "2.0 TON DOBLE CABINA",
+    "badge_sub": "TURBODIÉSEL 2.3L 5MT",
+    "diagram_label": "2T-MINI TRUCK CD (DIMENSIONES EN MM)",
+    "hero_image": "assets/minitruck_cd.webp",
+    "chassis_image": "",
+    "cotas": {
+      "A": "3.300 mm (Distancia entre ejes)",
+      "B": "1.300 mm (Voladizo trasero)",
+      "C": "5.550 mm (Longitud total)",
+      "D": "1.350 mm (Eje delantero a inicio de tolva tras cabina doble)",
+      "E": "820 mm (Altura plataforma de carga)",
+      "F": "1.150 mm (Voladizo delantero)",
+      "G": "1.480 mm / 1.420 mm (Trocha Delantera / Trasera)",
+      "H": "2.080 mm (Altura total de cabina)",
+      "I": "2.600 mm (Largo útil de tolva de carga)"
+    },
+    "extra_dim": {
+      "longitud": "5.550 mm",
+      "ancho": "1.850 mm",
+      "alto": "2.080 mm",
+      "distancia_ejes": "3.300 mm",
+      "voladizo_del": "1.150 mm",
+      "voladizo_tras": "1.300 mm",
+      "despeje": "190 mm",
+      "radio_giro": "6.6 m"
+    },
+    "s1": {
+      "motor": [
+        [
+          "Tipo / Denominación",
+          "Motor Turbodiésel 2.3L 4 cilindros en línea"
+        ],
+        [
+          "Admisión",
+          "Turbocompresor con intercooler aire-aire"
+        ],
+        [
+          "Inyección",
+          "Inyección directa Common Rail Bosch alta presión"
+        ],
+        [
+          "Cilindrada",
+          "2.270 cc (2.3 L)"
+        ],
+        [
+          "Potencia máxima",
+          "95 HP (70 kW) @ 3.200 rpm"
+        ],
+        [
+          "Torque máximo",
+          "240 Nm @ 1.800 - 2.400 rpm"
+        ],
+        [
+          "Combustible",
+          "Diésel automotriz"
+        ],
+        [
+          "Norma de emisión",
+          "Euro 4 / Euro 5"
+        ]
+      ],
+      "pesos": [
+        [
+          "Tara (Peso en vacío)",
+          "1.980 kg"
+        ],
+        [
+          "Peso bruto vehicular (PBV)",
+          "4.000 kg"
+        ],
+        [
+          "Capacidad de carga útil",
+          "2.000 kg (2.0 Toneladas netas con 5 ocupantes)"
+        ],
+        [
+          "Dimensiones de tolva",
+          "2.600 mm (largo) x 1.750 mm (ancho) x 380 mm (alto de baranda)"
+        ]
+      ],
+      "trans": [
+        [
+          "Tipo",
+          "Transmisión manual mecánica sincronizada"
+        ],
+        [
+          "Velocidades",
+          "5 velocidades hacia adelante + 1 reversa (5MT)"
+        ],
+        [
+          "Tracción",
+          "4x2 posterior con eje de transmisión reforzado"
+        ],
+        [
+          "Configuración trasera",
+          "Doble rodado (Dual Rear Wheels) para soporte de carga de 2 Toneladas"
+        ]
+      ],
+      "embrague": [
+        [
+          "Tipo",
+          "Monodisco seco con accionamiento hidráulico"
+        ],
+        [
+          "Diámetro de plato",
+          "260 mm de alta resistencia"
+        ],
+        [
+          "Mando",
+          "Servoasistido para confort del conductor"
+        ]
+      ],
+      "electrico": [
+        [
+          "Voltaje del sistema",
+          "12 V de servicio pesado"
+        ],
+        [
+          "Batería",
+          "12 V / 80 Ah de libre mantenimiento"
+        ],
+        [
+          "Alternador",
+          "12 V / 85 A con corte inteligente"
+        ]
+      ],
+      "comb": [
+        [
+          "Tanque de combustible",
+          "Tanque de acero con tapa con cerradura y protección de chasis"
+        ],
+        [
+          "Capacidad total",
+          "65 Litros (17.2 Galones)"
+        ],
+        [
+          "Sedimentador",
+          "Filtro trampa de agua con sensor electrónico y purga manual"
+        ]
+      ],
+      "frenos": [
+        [
+          "Sistema de frenos",
+          "Hidráulico servoasistido con doble circuito cruzado"
+        ],
+        [
+          "Frenos delanteros",
+          "Discos ventilados de servicio pesado"
+        ],
+        [
+          "Frenos traseros",
+          "Tambores autoajustables de alta fricción"
+        ],
+        [
+          "Freno auxiliar",
+          "Freno de motor al escape"
+        ],
+        [
+          "Asistencias",
+          "Sistema ABS antibloqueo con válvula sensora de carga (LSPV)"
+        ],
+        [
+          "Freno de estacionamiento",
+          "Mecánico por cable sobre ruedas traseras"
+        ]
+      ],
+      "fluidos": [
+        [
+          "Aceite de motor",
+          "5.5 L (Diésel 15W-40 CI-4 / CH-4)"
+        ],
+        [
+          "Líquido refrigerante",
+          "8.0 L (Refrigerante larga vida al 50%)"
+        ],
+        [
+          "Aceite de transmisión",
+          "2.8 L (SAE 80W-90 GL-5)"
+        ],
+        [
+          "Aceite de diferencial",
+          "2.5 L (SAE 85W-140 GL-5)"
+        ],
+        [
+          "Líquido de frenos",
+          "1.0 L (DOT 4)"
+        ]
+      ]
+    },
+    "s2": {
+      "cabina_dir": [
+        [
+          "Tipo de cabina",
+          "Doble Cabina fija 4 puertas para 5 ocupantes"
+        ],
+        [
+          "Capacidad de pasajeros",
+          "5 plazas (2 delanteras + 3 traseras con cinturones)"
+        ],
+        [
+          "Dirección",
+          "Dirección hidráulica asistida de recirculación de bolas"
+        ],
+        [
+          "Columna de dirección",
+          "Ajustable en ángulo y colapsable"
+        ],
+        [
+          "Retrovisores",
+          "Espejos exteriores dobles panorámicos de gran cobertura"
+        ]
+      ],
+      "eje_del": [
+        [
+          "Tipo de eje",
+          "Viga rígida forjada en sección I (Reverse Elliott)"
+        ],
+        [
+          "Suspensión",
+          "Ballestas semielípticas de 6 hojas con amortiguadores hidráulicos de doble acción"
+        ],
+        [
+          "Capacidad de carga",
+          "1.600 kg"
+        ],
+        [
+          "Rines",
+          "Acero estampado reforzado 15 pulgadas"
+        ],
+        [
+          "Neumáticos",
+          "185 R15 LT (8PR / Carga pesada)"
+        ]
+      ],
+      "eje_tras": [
+        [
+          "Tipo de eje",
+          "Eje rígido de servicio pesado con reducción simple cónica hipoide"
+        ],
+        [
+          "Configuración de rodado",
+          "Doble rodado trasero (4 ruedas posteriores)"
+        ],
+        [
+          "Suspensión",
+          "Ballestas semielípticas principales (6 hojas) + auxiliares (5 hojas)"
+        ],
+        [
+          "Capacidad de carga",
+          "2.800 kg"
+        ],
+        [
+          "Rines",
+          "Acero reforzado 15 pulgadas"
+        ],
+        [
+          "Neumáticos",
+          "185 R15 LT (doble rodado)"
+        ]
+      ],
+      "chasis": [
+        [
+          "Bastidor",
+          "Largueros de acero de perfil C reforzado de alta rigidez torsional"
+        ],
+        [
+          "Plataforma de carga",
+          "Tolva metálica de 2.60 metros con piso acanalado de alta fricción"
+        ],
+        [
+          "Compuertas de tolva",
+          "Abatibles en 3 lados (laterales y trasera) con cerraduras seguras"
+        ],
+        [
+          "Protección",
+          "Barra anti-empotramiento trasera y defensas laterales"
+        ]
+      ],
+      "interior": [
+        [
+          "Climatización",
+          "Aire acondicionado de alto poder para habitáculo doble cabina"
+        ],
+        [
+          "Vidrios y seguros",
+          "Alzacristales eléctricos en las 4 puertas y cierre centralizado"
+        ],
+        [
+          "Audio e info-entretenimiento",
+          "Radio AM/FM con puerto USB, entrada auxiliar y 4 parlantes"
+        ],
+        [
+          "Instrumentación",
+          "Tablero integral con velocímetro, tacómetro y medidores de aguja de temperatura y combustible"
+        ],
+        [
+          "Asientos",
+          "Asientos ergonómicos con tapicería de tela vinílica lavable y duradera"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "VR210",
+    "tab": "★ VR210 12 TON (Chasis Cabina)",
+    "title_h1": "DONGFENG VR210 · 12 TON",
+    "title_h2": "DONGFENG VR210",
+    "vehiculo": "Carga",
+    "marca": "DONGFENG",
+    "modelo": "VR210",
+    "version": "DFH1200B350-KD7E-965-0003",
+    "cabina": "Sencilla con camarote",
+    "traccion": "4X2",
+    "badge_text": "VR210 · 12 TON",
+    "badge_sub": "CHASIS CABINA 4X2",
+    "diagram_label": "DONGFENG VR210 · 12 TON",
+    "hero_image": "assets/vr210_vehiculo.png",
+    "chassis_image": "assets/vr210_plano.png",
+    "s1": {
+      "motor": [
+        [
+          "Tipo / Marca",
+          "B210 33 / Marca Cummins 6BT"
+        ],
+        [
+          "Admisión",
+          "Turbo e intercooler"
+        ],
+        [
+          "Inyección",
+          "Directa con bomba mecánica"
+        ],
+        [
+          "Número de cilindros",
+          "6 cilindros en línea"
+        ],
+        [
+          "Cilindrada",
+          "5.9 L"
+        ],
+        [
+          "Diámetro del cilindro",
+          "102 mm"
+        ],
+        [
+          "Carrera del cilindro",
+          "120 mm"
+        ],
+        [
+          "Potencia máxima",
+          "210 HP (155 kW) a 2.500 rpm"
+        ],
+        [
+          "Torque máximo",
+          "670 Nm a 1.500 rpm"
+        ],
+        [
+          "Norma de emisión",
+          "Euro 2"
+        ]
+      ],
+      "pesos": [
+        [
+          "Tara (Peso en vacío)",
+          "5.570 kg"
+        ],
+        [
+          "Peso bruto vehicular (PBV)",
+          "17.000 kg"
+        ],
+        [
+          "Capacidad de carga útil",
+          "11.450 kg"
+        ]
+      ],
+      "trans": [
+        [
+          "Marca",
+          "Fast 7 & Speed"
+        ],
+        [
+          "Modelo",
+          "8JS85TE-C OD"
+        ],
+        [
+          "Tipo",
+          "Sincrónica de engranaje mecánico"
+        ],
+        [
+          "Velocidades",
+          "8 velocidades hacia adelante + 2 reversas"
+        ]
+      ],
+      "embrague": [
+        [
+          "Tipo",
+          "Servoasistido / Diámetro: 395 mm"
+        ],
+        [
+          "Control hidráulico",
+          "Con impulsor de aire"
+        ],
+        [
+          "Marca",
+          "SACHS"
+        ]
+      ],
+      "electrico": [
+        [
+          "Batería",
+          "24 V (2 baterías 12 V), 100 Ah"
+        ]
+      ],
+      "comb": [
+        [
+          "Tanques",
+          "2 tanques de acero, tapa con cerradura"
+        ],
+        [
+          "Capacidad total",
+          "700 L"
+        ]
+      ],
+      "frenos": [
+        [
+          "Sistema de frenos",
+          "Neumático, doble circuito a tambor"
+        ],
+        [
+          "Freno auxiliar",
+          "Freno de escape de motor"
+        ],
+        [
+          "Freno de estacionamiento",
+          "De resorte en eje trasero"
+        ]
+      ],
+      "fluidos": [
+        [
+          "Volumen de fluidos",
+          "No especificado en la ficha de origen."
+        ]
+      ]
+    },
+    "cotas": {
+      "A": "5.000 mm (Distancia entre ejes)",
+      "B": "2.350 mm (Voladizo trasero)",
+      "C": "8.750 mm (Longitud total)",
+      "D": "640 mm (Eje delantero a final cabina)",
+      "E": "1.310 mm (Altura del chasis en eje de tracción)",
+      "F": "1.370 mm (Voladizo delantero)",
+      "G": "850 mm (Ancho del eje trasero)",
+      "H": "2.880 mm (Altura total de cabina)",
+      "I": "6.550 mm (Largo carrozable)"
+    },
+    "extra_dim": {
+      "longitud": "8.750 mm",
+      "ancho": "2.180 mm (Ancho de cabina)",
+      "alto": "2.880 mm (Altura de cabina)",
+      "distancia_ejes": "5.000 mm",
+      "voladizo_del": "1.370 mm",
+      "voladizo_tras": "2.350 mm",
+      "despeje": "1.310 mm (Altura chasis al piso)",
+      "radio_giro": "6.550 mm (Largo carrozable)"
+    },
+    "s2": {
+      "cabina_dir": [
+        [
+          "Cabina y capacidad",
+          "Sencilla con camarote / Tres asientos"
+        ],
+        [
+          "Mecanismo abatible",
+          "Abatible mecánico"
+        ],
+        [
+          "Asiento conductor",
+          "Suspensión hidráulica"
+        ],
+        [
+          "Suspensión cabina",
+          "Mecánica con amortiguador y espiral en parte trasera"
+        ],
+        [
+          "Dirección",
+          "Bosch, sistema hidráulico asistido"
+        ]
+      ],
+      "eje_del": [
+        [
+          "Tipo de eje",
+          "Elliott, sección doble T"
+        ],
+        [
+          "Capacidad de carga",
+          "6 t (6.000 kg)"
+        ],
+        [
+          "Suspensión",
+          "Ballestas de 6 hojas + amortiguador"
+        ],
+        [
+          "Rin de acero",
+          "Medida 22.5"
+        ],
+        [
+          "Neumático",
+          "295/80R22.5"
+        ]
+      ],
+      "eje_tras": [
+        [
+          "Tipo de eje",
+          "Reducción simple, laminado a presión"
+        ],
+        [
+          "Relación final",
+          "5.14"
+        ],
+        [
+          "Capacidad de carga",
+          "10 t (10.000 kg)"
+        ],
+        [
+          "Suspensión",
+          "Ballestas 10 + 8 hojas"
+        ],
+        [
+          "Rin de acero",
+          "Medida 22.5"
+        ],
+        [
+          "Neumático",
+          "295/80R22.5"
+        ]
+      ],
+      "chasis": [
+        [
+          "Tipo de bastidor",
+          "Escalera reforzada, remachada"
+        ],
+        [
+          "Ancho bastidor",
+          "850 mm (delantero y trasero)"
+        ],
+        [
+          "Perfil de viga",
+          "Alto 250 mm / Ancho 80 mm"
+        ],
+        [
+          "Espesor de hojas",
+          "5 mm"
+        ],
+        [
+          "Altura chasis al piso",
+          "1.310 mm"
+        ]
+      ],
+      "interior": [
+        [
+          "Climatización",
+          "Aire acondicionado"
+        ],
+        [
+          "Vidrios y seguros",
+          "Vidrios manuales / Apertura y cierre de puerta manual"
+        ],
+        [
+          "Instrumentación",
+          "Velocímetro, tacómetro y odómetro"
+        ],
+        [
+          "Indicadores de tablero",
+          "Presión de aire y combustible / Amperímetro / Temperatura"
+        ],
+        [
+          "Audio y advertencia",
+          "Equipo de sonido / Claxon"
+        ],
+        [
+          "Asiento conductor",
+          "Conductor: suspensión mecánica"
+        ],
+        [
+          "Tecnología y visión",
+          "Cámara de reversa / Pantalla multifuncional"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "Z16A",
+    "tab": "Z9 Comercial 4WD MT (Z16A)",
+    "title_h1": "DONGFENG Z9 COMERCIAL · 4WD MT",
+    "title_h2": "DONGFENG Z9 COMERCIAL",
+    "vehiculo": "Pick-up Comercial Doble Cabina",
+    "marca": "DONGFENG",
+    "modelo": "Z9 Comercial",
+    "version": "Z16A (Euro 6 4WD MT)",
+    "traccion": "4WD (Tracción 4x4 Manual)",
+    "badge_text": "DONGFENG Z9",
+    "badge_sub": "COMERCIAL 4WD MT",
+    "diagram_label": "Z9 4WD (DIMENSIONES EN MM)",
+    "cotas": {
+      "A": "3.300 mm (Distancia entre ejes)",
+      "B": "1.310 mm (Voladizo trasero con tolva)",
+      "C": "5.520 mm (Longitud total de carrocería)",
+      "D": "910 mm (Eje delantero a cabina)",
+      "E": "1.100 mm (Altura plataforma de carga)",
+      "F": "910 mm (Voladizo delantero)",
+      "G": "1.650 mm (Ancho de vía delantera / trasera)",
+      "H": "1.950 mm (Altura total de vehículo)",
+      "I": "1.520 mm (Largo útil de compartimiento de carga)"
+    },
+    "extra_dim": {
+      "longitud": "5.520 mm",
+      "ancho": "1.960 mm",
+      "alto": "1.950 mm",
+      "distancia_ejes": "3.300 mm",
+      "voladizo_del": "910 mm",
+      "voladizo_tras": "1.310 mm",
+      "despeje": "240 mm (sin carga) / 209 mm (con carga)",
+      "radio_giro": "6.75 m"
+    },
+    "s1": {
+      "motor": [
+        [
+          "Tipo",
+          "4K31 / Gasolina 2.0 Turbo"
+        ],
+        [
+          "Admisión",
+          "Turbo con intercooler de alta eficiencia"
+        ],
+        [
+          "Inyección",
+          "Inyección directa GDI a alta presión"
+        ],
+        [
+          "Número de cilindros",
+          "4 cilindros en línea, 16 válvulas DOHC"
+        ],
+        [
+          "Cilindrada",
+          "2.0 L (1.997 cc)"
+        ],
+        [
+          "Potencia",
+          "190 kW (255 HP) @ 5.500 rpm"
+        ],
+        [
+          "Torque",
+          "400 Nm @ 1.800 - 3.500 rpm"
+        ],
+        [
+          "Norma de emisión",
+          "Euro VI / Euro 6"
+        ]
+      ],
+      "trans": [
+        [
+          "Marca",
+          "ZNA Dongfeng Heavy Duty"
+        ],
+        [
+          "Modelo",
+          "6MT Manual de 6 velocidades"
+        ],
+        [
+          "Tipo",
+          "Sincrónica de 6 marchas adelante + 1 reversa"
+        ],
+        [
+          "Tracción",
+          "4WD conectable con reductora"
+        ]
+      ],
+      "embrague": [
+        [
+          "Tipo",
+          "Monodisco en seco con resorte diafragma"
+        ],
+        [
+          "Control",
+          "Hidráulico con bomba impulsora de asistencia"
+        ],
+        [
+          "Diámetro",
+          "260 mm reforzado para alta torsión"
+        ],
+        [
+          "Marca",
+          "Equipo original con certificación de fábrica"
+        ]
+      ],
+      "electrico": [
+        [
+          "Batería",
+          "12 V libre de mantenimiento de alto rendimiento (70-80 Ah)"
+        ],
+        [
+          "Alternador",
+          "14 V / 120 A - 150 A de alta salida"
+        ],
+        [
+          "Arranque",
+          "Motor de arranque eléctrico 12 V / 1.8 kW"
+        ],
+        [
+          "Fusibles y relés",
+          "Caja central sellada contra agua y polvo IP67"
+        ]
+      ],
+      "pesos": [
+        [
+          "Tara",
+          "2.205 kg"
+        ],
+        [
+          "Peso bruto vehicular",
+          "3.380 kg"
+        ],
+        [
+          "Capacidad de carga",
+          "1.175 kg (Servicio Pesado)"
+        ],
+        [
+          "Capacidad de remolque",
+          "3.000 kg (con freno)"
+        ]
+      ],
+      "comb": [
+        [
+          "Tanque de combustible",
+          "Tanque reforzado con protección inferior"
+        ],
+        [
+          "Capacidad",
+          "73 Litros"
+        ],
+        [
+          "Alimentación",
+          "Bomba sumergida con regulador de retorno y filtro"
+        ]
+      ],
+      "frenos": [
+        [
+          "Tipo general",
+          "Frenos de disco en las cuatro ruedas (Four-Wheel Disc)"
+        ],
+        [
+          "Freno delantero",
+          "Discos ventilados con cáliper flotante"
+        ],
+        [
+          "Freno trasero",
+          "Discos macizos / ventilados de alta disipación"
+        ],
+        [
+          "Freno de estacionamiento",
+          "Electrónico (EPB) con función Auto-Hold"
+        ],
+        [
+          "Asistencias de serie",
+          "ABS, EBD, Asistente de frenado de pánico HBA / BOS"
+        ]
+      ],
+      "fluidos": [
+        [
+          "Aceite de motor",
+          "5.0 L (Sintético SAE 5W-30 / 0W-20 API SP)"
+        ],
+        [
+          "Líquido refrigerante",
+          "8.5 L (Refrigerante larga vida al 50%)"
+        ],
+        [
+          "Aceite de transmisión",
+          "7.0 L (Fluido certificado para transmisión)"
+        ],
+        [
+          "Líquido de frenos",
+          "1.0 L (DOT 4)"
+        ],
+        [
+          "Lavaparabrisas",
+          "4.0 L"
+        ]
+      ]
+    },
+    "s2": {
+      "eje_del": [
+        [
+          "Tipo",
+          "Semiejes de tracción con articulación homocinética"
+        ],
+        [
+          "Suspensión",
+          "Doble horquilla independiente con barra estabilizadora transversal"
+        ],
+        [
+          "Amortiguación",
+          "Amortiguadores telescópicos presurizados de doble acción"
+        ],
+        [
+          "Capacidad de carga",
+          "1.650 kg de carga frontal"
+        ],
+        [
+          "Rin de acero / aleación",
+          "Aleación de aluminio 18''"
+        ],
+        [
+          "Neumático",
+          "265/60 R18 (Todo Terreno AT)"
+        ]
+      ],
+      "eje_tras": [
+        [
+          "Reducción",
+          "Simple con piñón y corona hipoide reforzados"
+        ],
+        [
+          "Relación",
+          "Optimizada para capacidad de arrastre y carga útil"
+        ],
+        [
+          "Suspensión",
+          "Ballestas longitudinales semielípticas multi-hoja"
+        ],
+        [
+          "Diferencial",
+          "Diferencial de servicio pesado / Bloqueo opcional"
+        ],
+        [
+          "Rin de acero / aleación",
+          "Aleación 18'' · Medida 18x8.0J"
+        ],
+        [
+          "Neumático",
+          "265/60 R18"
+        ]
+      ],
+      "chasis": [
+        [
+          "Estructura",
+          "Escalera reforzada de doble perfil cajonado cerrado"
+        ],
+        [
+          "Material",
+          "Acero de alta resistencia galvanizado de grado automotriz"
+        ],
+        [
+          "Protección inferior",
+          "Cubre-cárter, protector de caja de cambios y tanque"
+        ],
+        [
+          "Puntos de anclaje",
+          "Ganchos de remolque delantero y trasero para servicio pesado"
+        ],
+        [
+          "Tratamiento",
+          "Protección anticorrosiva por electrodeposición cataforética"
+        ]
+      ],
+      "cabina_dir": [
+        [
+          "Configuración",
+          "Doble cabina cuatro puertas / Capacidad 5 asientos confort"
+        ],
+        [
+          "Aislamiento",
+          "Cabina acústica NVH con doble burlete y vidrios laminados"
+        ],
+        [
+          "Mecanismo conductor",
+          "Asiento con ajuste en 6 direcciones y soporte lumbar"
+        ],
+        [
+          "Dirección",
+          "Bosch, sistema hidráulico asistido / Asistencia electrónica"
+        ],
+        [
+          "Volante",
+          "Columna de dirección colapsable y ajustable en altura y profundidad"
+        ]
+      ],
+      "interior": [
+        [
+          "Aire acondicionado",
+          "Automático digital con ductos hacia plazas traseras"
+        ],
+        [
+          "Vidrios / Apertura",
+          "Vidrios eléctricos en las 4 puertas / Cierre centralizado con llave"
+        ],
+        [
+          "Velocímetro y tacómetro",
+          "Cuadro de mandos digital multifuncional en español"
+        ],
+        [
+          "Indicadores",
+          "Presión de neumáticos TPMS, consumo y autonomía"
+        ],
+        [
+          "Equipo de sonido",
+          "Pantalla de 12'' con conectividad smartphone / Parlantes HD"
+        ],
+        [
+          "Conductor y pasajero",
+          "Airbags frontales y anclajes ISOFIX de serie"
+        ],
+        [
+          "Cámara de reversa",
+          "Cámara de alta definición con sensores de proximidad"
+        ]
+      ]
+    },
+    "hero_image": "assets/z9_hero.jpg"
+  },
+  {
+    "id": "Z20A",
+    "tab": "Z9 Comercial 4WD AT (Z20A)",
+    "title_h1": "DONGFENG Z9 COMERCIAL · 4WD AT",
+    "title_h2": "DONGFENG Z9 COMERCIAL",
+    "vehiculo": "Pick-up Comercial Doble Cabina",
+    "marca": "DONGFENG",
+    "modelo": "Z9 Comercial",
+    "version": "Z20A (Euro 6 4WD 8AT)",
+    "traccion": "4WD (Tracción 4x4 Automática)",
+    "badge_text": "HEAVY DUTY 8AT",
+    "badge_sub": "COMERCIAL 4WD AT",
+    "diagram_label": "Z9 4WD 8AT (DIMENSIONES EN MM)",
+    "cotas": {
+      "A": "3.300 mm (Distancia entre ejes)",
+      "B": "1.310 mm (Voladizo trasero)",
+      "C": "5.520 mm (Longitud total)",
+      "D": "910 mm (Eje frontal a cabina)",
+      "E": "1.100 mm (Altura plataforma de carga)",
+      "F": "910 mm (Voladizo delantero)",
+      "G": "1.650 mm (Trocha Delantera / Trasera)",
+      "H": "1.950 mm (Altura total)",
+      "I": "1.520 mm (Largo interior tolva)"
+    },
+    "extra_dim": {
+      "longitud": "5.520 mm",
+      "ancho": "1.960 mm",
+      "alto": "1.950 mm",
+      "distancia_ejes": "3.300 mm",
+      "voladizo_del": "910 mm",
+      "voladizo_tras": "1.310 mm",
+      "despeje": "240 mm / 209 mm",
+      "radio_giro": "6.75 m"
+    },
+    "s1": {
+      "motor": [
+        [
+          "Tipo",
+          "4K31 / Gasolina 2.0 Turbo"
+        ],
+        [
+          "Admisión",
+          "Turbo con intercooler de alta eficiencia"
+        ],
+        [
+          "Inyección",
+          "Inyección directa GDI a alta presión"
+        ],
+        [
+          "Número de cilindros",
+          "4 cilindros en línea, 16 válvulas DOHC"
+        ],
+        [
+          "Cilindrada",
+          "2.0 L (1.997 cc)"
+        ],
+        [
+          "Potencia",
+          "190 kW (255 HP) @ 5.500 rpm"
+        ],
+        [
+          "Torque",
+          "400 Nm @ 1.800 - 3.500 rpm"
+        ],
+        [
+          "Norma de emisión",
+          "Euro VI / Euro 6"
+        ]
+      ],
+      "trans": [
+        [
+          "Marca",
+          "ZF Friedrichshafen AG"
+        ],
+        [
+          "Modelo",
+          "8AT Automática de 8 marchas"
+        ],
+        [
+          "Tipo",
+          "Automática secuencial inteligente con levas"
+        ],
+        [
+          "Gestión",
+          "Modos de conducción Eco / Sport / Normal"
+        ]
+      ],
+      "embrague": [
+        [
+          "Tipo",
+          "Convertidor de par hidráulico con embrague lock-up"
+        ],
+        [
+          "Control",
+          "Gestión electrónica integrada a la transmisión"
+        ],
+        [
+          "Bloqueo",
+          "Acople directo a velocidades de crucero"
+        ],
+        [
+          "Durabilidad",
+          "Fluido sintético de larga duración"
+        ]
+      ],
+      "electrico": [
+        [
+          "Batería",
+          "12 V libre de mantenimiento de alto rendimiento (70-80 Ah)"
+        ],
+        [
+          "Alternador",
+          "14 V / 120 A - 150 A de alta salida"
+        ],
+        [
+          "Arranque",
+          "Motor de arranque eléctrico 12 V / 1.8 kW"
+        ],
+        [
+          "Fusibles y relés",
+          "Caja central sellada contra agua y polvo IP67"
+        ]
+      ],
+      "pesos": [
+        [
+          "Tara",
+          "2.280 kg"
+        ],
+        [
+          "Peso bruto vehicular",
+          "3.145 kg"
+        ],
+        [
+          "Capacidad de carga",
+          "865 kg"
+        ],
+        [
+          "Capacidad de remolque",
+          "3.000 kg"
+        ]
+      ],
+      "comb": [
+        [
+          "Tanque de combustible",
+          "Tanque reforzado con protección inferior"
+        ],
+        [
+          "Capacidad",
+          "73 Litros"
+        ],
+        [
+          "Alimentación",
+          "Bomba sumergida con regulador de retorno y filtro"
+        ]
+      ],
+      "frenos": [
+        [
+          "Tipo general",
+          "Frenos de disco en las cuatro ruedas (Four-Wheel Disc)"
+        ],
+        [
+          "Freno delantero",
+          "Discos ventilados con cáliper flotante"
+        ],
+        [
+          "Freno trasero",
+          "Discos macizos / ventilados de alta disipación"
+        ],
+        [
+          "Freno de estacionamiento",
+          "Electrónico (EPB) con función Auto-Hold"
+        ],
+        [
+          "Asistencias de serie",
+          "ABS, EBD, Asistente de frenado de pánico HBA / BOS"
+        ]
+      ],
+      "fluidos": [
+        [
+          "Aceite de motor",
+          "5.0 L (Sintético SAE 5W-30 / 0W-20 API SP)"
+        ],
+        [
+          "Líquido refrigerante",
+          "8.5 L (Refrigerante larga vida al 50%)"
+        ],
+        [
+          "Aceite de transmisión",
+          "7.0 L (Fluido certificado para transmisión)"
+        ],
+        [
+          "Líquido de frenos",
+          "1.0 L (DOT 4)"
+        ],
+        [
+          "Lavaparabrisas",
+          "4.0 L"
+        ]
+      ]
+    },
+    "s2": {
+      "eje_del": [
+        [
+          "Tipo",
+          "Semiejes de tracción con articulación homocinética"
+        ],
+        [
+          "Suspensión",
+          "Doble horquilla independiente con barra estabilizadora transversal"
+        ],
+        [
+          "Amortiguación",
+          "Amortiguadores telescópicos presurizados de doble acción"
+        ],
+        [
+          "Capacidad de carga",
+          "1.650 kg de carga frontal"
+        ],
+        [
+          "Rin de acero / aleación",
+          "Aleación de aluminio 18''"
+        ],
+        [
+          "Neumático",
+          "265/60 R18 (Todo Terreno AT)"
+        ]
+      ],
+      "eje_tras": [
+        [
+          "Reducción",
+          "Simple con piñón y corona hipoide reforzados"
+        ],
+        [
+          "Relación",
+          "Optimizada para capacidad de arrastre y carga útil"
+        ],
+        [
+          "Suspensión",
+          "Ballestas longitudinales semielípticas multi-hoja"
+        ],
+        [
+          "Diferencial",
+          "Diferencial de servicio pesado / Bloqueo opcional"
+        ],
+        [
+          "Rin de acero / aleación",
+          "Aleación 18'' · Medida 18x8.0J"
+        ],
+        [
+          "Neumático",
+          "265/60 R18"
+        ]
+      ],
+      "chasis": [
+        [
+          "Estructura",
+          "Escalera reforzada de doble perfil cajonado cerrado"
+        ],
+        [
+          "Material",
+          "Acero de alta resistencia galvanizado de grado automotriz"
+        ],
+        [
+          "Protección inferior",
+          "Cubre-cárter, protector de caja de cambios y tanque"
+        ],
+        [
+          "Puntos de anclaje",
+          "Ganchos de remolque delantero y trasero para servicio pesado"
+        ],
+        [
+          "Tratamiento",
+          "Protección anticorrosiva por electrodeposición cataforética"
+        ]
+      ],
+      "cabina_dir": [
+        [
+          "Configuración",
+          "Doble cabina cuatro puertas / Capacidad 5 asientos confort"
+        ],
+        [
+          "Aislamiento",
+          "Cabina acústica NVH con doble burlete y vidrios laminados"
+        ],
+        [
+          "Mecanismo conductor",
+          "Asiento con ajuste en 6 direcciones y soporte lumbar"
+        ],
+        [
+          "Dirección",
+          "Bosch, sistema hidráulico asistido / Asistencia electrónica"
+        ],
+        [
+          "Volante",
+          "Columna de dirección colapsable y ajustable en altura y profundidad"
+        ]
+      ],
+      "interior": [
+        [
+          "Aire acondicionado",
+          "Automático digital con ductos hacia plazas traseras"
+        ],
+        [
+          "Vidrios / Apertura",
+          "Vidrios eléctricos en las 4 puertas / Cierre centralizado con llave"
+        ],
+        [
+          "Velocímetro y tacómetro",
+          "Cuadro de mandos digital multifuncional en español"
+        ],
+        [
+          "Indicadores",
+          "Presión de neumáticos TPMS, consumo y autonomía"
+        ],
+        [
+          "Equipo de sonido",
+          "Pantalla de 12'' con conectividad smartphone / Parlantes HD"
+        ],
+        [
+          "Conductor y pasajero",
+          "Airbags frontales y anclajes ISOFIX de serie"
+        ],
+        [
+          "Cámara de reversa",
+          "Cámara de alta definición con sensores de proximidad"
+        ]
+      ]
+    },
+    "hero_image": "assets/z9_hero.jpg"
+  },
+  {
+    "id": "Z42A",
+    "tab": "Z9 Passenger 4WD 8AT (Z42A)",
+    "title_h1": "DONGFENG Z9 PASSENGER · 4WD 8AT",
+    "title_h2": "DONGFENG Z9 PASSENGER",
+    "vehiculo": "Pick-up Doble Cabina de Pasajeros",
+    "marca": "DONGFENG",
+    "modelo": "Z9 Passenger",
+    "version": "Z42A (High Confort Euro 6)",
+    "traccion": "4WD Inteligente con Modos",
+    "badge_text": "PREMIUM PASSENGER",
+    "badge_sub": "LUXURY PICK-UP 4WD",
+    "diagram_label": "Z9 PASSENGER 4WD (DIMENSIONES EN MM)",
+    "cotas": {
+      "A": "3.300 mm (Distancia entre ejes)",
+      "B": "1.310 mm (Voladizo trasero con paragolpes)",
+      "C": "5.520 mm (Longitud total)",
+      "D": "910 mm (Eje delantero a cabina)",
+      "E": "1.080 mm (Altura piso de carga)",
+      "F": "910 mm (Voladizo delantero)",
+      "G": "1.650 mm (Vía Delantera / Trasera)",
+      "H": "1.950 mm (Altura total)",
+      "I": "1.520 mm (Largo tolva de carga)"
+    },
+    "extra_dim": {
+      "longitud": "5.520 mm",
+      "ancho": "1.960 mm",
+      "alto": "1.950 mm",
+      "distancia_ejes": "3.300 mm",
+      "voladizo_del": "910 mm",
+      "voladizo_tras": "1.310 mm",
+      "despeje": "240 mm / 224 mm",
+      "radio_giro": "6.75 m"
+    },
+    "s1": {
+      "motor": [
+        [
+          "Tipo",
+          "4K31TD / Gasolina 2.0 Turbo Premium"
+        ],
+        [
+          "Admisión",
+          "Turbo intercooler de doble flujo"
+        ],
+        [
+          "Inyección",
+          "Inyección directa GDI"
+        ],
+        [
+          "Número de cilindros",
+          "4 cilindros en línea DOHC"
+        ],
+        [
+          "Cilindrada",
+          "2.0 L (1.997 cc)"
+        ],
+        [
+          "Potencia",
+          "190 kW (255 HP) @ 5.500 rpm"
+        ],
+        [
+          "Torque",
+          "400 Nm @ 1.800 - 3.500 rpm"
+        ],
+        [
+          "Norma de emisión",
+          "Euro 6b"
+        ]
+      ],
+      "trans": [
+        [
+          "Marca",
+          "ZF Friedrichshafen AG"
+        ],
+        [
+          "Modelo",
+          "8AT Automática de 8 marchas"
+        ],
+        [
+          "Tipo",
+          "Automática secuencial inteligente con levas"
+        ],
+        [
+          "Gestión",
+          "Modos de conducción Eco / Sport / Normal"
+        ]
+      ],
+      "embrague": [
+        [
+          "Tipo",
+          "Convertidor de par hidráulico con embrague lock-up"
+        ],
+        [
+          "Control",
+          "Gestión electrónica integrada a la transmisión"
+        ],
+        [
+          "Bloqueo",
+          "Acople directo a velocidades de crucero"
+        ],
+        [
+          "Durabilidad",
+          "Fluido sintético de larga duración"
+        ]
+      ],
+      "electrico": [
+        [
+          "Batería",
+          "12 V libre de mantenimiento de alto rendimiento (70-80 Ah)"
+        ],
+        [
+          "Alternador",
+          "14 V / 120 A - 150 A de alta salida"
+        ],
+        [
+          "Arranque",
+          "Motor de arranque eléctrico 12 V / 1.8 kW"
+        ],
+        [
+          "Fusibles y relés",
+          "Caja central sellada contra agua y polvo IP67"
+        ]
+      ],
+      "pesos": [
+        [
+          "Tara",
+          "2.140 kg"
+        ],
+        [
+          "Peso bruto vehicular",
+          "3.005 kg"
+        ],
+        [
+          "Capacidad de carga",
+          "865 kg"
+        ],
+        [
+          "Pasajeros",
+          "5 ocupantes"
+        ]
+      ],
+      "comb": [
+        [
+          "Tanque de combustible",
+          "Tanque reforzado con protección inferior"
+        ],
+        [
+          "Capacidad",
+          "73 Litros"
+        ],
+        [
+          "Alimentación",
+          "Bomba sumergida con regulador de retorno y filtro"
+        ]
+      ],
+      "frenos": [
+        [
+          "Tipo general",
+          "Frenos de disco en las cuatro ruedas (Four-Wheel Disc)"
+        ],
+        [
+          "Freno delantero",
+          "Discos ventilados con cáliper flotante"
+        ],
+        [
+          "Freno trasero",
+          "Discos macizos / ventilados de alta disipación"
+        ],
+        [
+          "Freno de estacionamiento",
+          "Electrónico (EPB) con función Auto-Hold"
+        ],
+        [
+          "Asistencias de serie",
+          "ABS, EBD, Asistente de frenado de pánico HBA / BOS"
+        ]
+      ],
+      "fluidos": [
+        [
+          "Aceite de motor",
+          "5.0 L (Sintético SAE 5W-30 / 0W-20 API SP)"
+        ],
+        [
+          "Líquido refrigerante",
+          "8.5 L (Refrigerante larga vida al 50%)"
+        ],
+        [
+          "Aceite de transmisión",
+          "7.0 L (Fluido certificado para transmisión)"
+        ],
+        [
+          "Líquido de frenos",
+          "1.0 L (DOT 4)"
+        ],
+        [
+          "Lavaparabrisas",
+          "4.0 L"
+        ]
+      ]
+    },
+    "s2": {
+      "eje_del": [
+        [
+          "Tipo",
+          "Semiejes de tracción con articulación homocinética"
+        ],
+        [
+          "Suspensión",
+          "Doble horquilla independiente con barra estabilizadora transversal"
+        ],
+        [
+          "Amortiguación",
+          "Amortiguadores telescópicos presurizados de doble acción"
+        ],
+        [
+          "Capacidad de carga",
+          "1.650 kg de carga frontal"
+        ],
+        [
+          "Rin de acero / aleación",
+          "Aleación de aluminio 18''"
+        ],
+        [
+          "Neumático",
+          "265/60 R18 (Todo Terreno AT)"
+        ]
+      ],
+      "eje_tras": [
+        [
+          "Reducción",
+          "Simple helicoidal / Motor eléctrico de tracción trasera (PHEV)"
+        ],
+        [
+          "Relación",
+          "Ajustada electrónicamente para máxima eficiencia"
+        ],
+        [
+          "Suspensión",
+          "Multilink independiente o ballestas parabólicas progresivas"
+        ],
+        [
+          "Diferencial",
+          "Bloqueo electrónico de diferencial trasero (E-Locker)"
+        ],
+        [
+          "Rin de acero / aleación",
+          "Aleación 18''"
+        ],
+        [
+          "Neumático",
+          "265/60 R18"
+        ]
+      ],
+      "chasis": [
+        [
+          "Estructura",
+          "Escalera reforzada de doble perfil cajonado cerrado"
+        ],
+        [
+          "Material",
+          "Acero de alta resistencia galvanizado de grado automotriz"
+        ],
+        [
+          "Protección inferior",
+          "Cubre-cárter, protector de caja de cambios y tanque"
+        ],
+        [
+          "Puntos de anclaje",
+          "Ganchos de remolque delantero y trasero para servicio pesado"
+        ],
+        [
+          "Tratamiento",
+          "Protección anticorrosiva por electrodeposición cataforética"
+        ]
+      ],
+      "cabina_dir": [
+        [
+          "Configuración",
+          "Doble cabina cuatro puertas / Capacidad 5 asientos confort"
+        ],
+        [
+          "Aislamiento",
+          "Cabina acústica NVH con doble burlete y vidrios laminados"
+        ],
+        [
+          "Mecanismo conductor",
+          "Asiento con ajuste en 6 direcciones y soporte lumbar"
+        ],
+        [
+          "Dirección",
+          "Bosch, sistema hidráulico asistido / Asistencia electrónica"
+        ],
+        [
+          "Volante",
+          "Columna de dirección colapsable y ajustable en altura y profundidad"
+        ]
+      ],
+      "interior": [
+        [
+          "Aire acondicionado",
+          "Climatizador bizona automático con filtro PM2.5"
+        ],
+        [
+          "Pantalla multifuncional",
+          "Pantalla flotante de 12.3 pulgadas con soporte táctil"
+        ],
+        [
+          "Equipo de sonido",
+          "Sistema surround de audio de 6 parlantes"
+        ],
+        [
+          "Asientos",
+          "Cuero microperforado, butacas delanteras calefaccionadas"
+        ],
+        [
+          "Cámara de reversa",
+          "Cámara panorámica 360° / 540° con chasis transparente"
+        ],
+        [
+          "Acceso",
+          "Apertura sin llave (Keyless) y botón de encendido Start/Stop"
+        ],
+        [
+          "Techo y luces",
+          "Iluminación ambiental LED y tomas USB en plazas traseras"
+        ]
+      ]
+    },
+    "hero_image": "assets/z9_hero.jpg"
+  },
+  {
+    "id": "X21B",
+    "tab": "Z9 Hybrid PHEV 4WD (X21B)",
+    "title_h1": "DONGFENG Z9 HYBRID PHEV · 4WD",
+    "title_h2": "DONGFENG Z9 HYBRID PHEV",
+    "vehiculo": "Pick-up Híbrida Enchufable (PHEV)",
+    "marca": "DONGFENG",
+    "modelo": "Z9 P20 PHEV",
+    "version": "X21B (PHEV 135KM UPR 4DHT)",
+    "traccion": "4WD Eléctrico Híbrido Avanzado",
+    "badge_text": "PHEV 800 Nm TORQUE",
+    "badge_sub": "135 KM EV RANGE",
+    "diagram_label": "Z9 HYBRID PHEV (DIMENSIONES EN MM)",
+    "cotas": {
+      "A": "3.300 mm (Distancia entre ejes)",
+      "B": "1.310 mm (Voladizo trasero)",
+      "C": "5.520 mm (Longitud exterior)",
+      "D": "910 mm (Eje frontal a cabina)",
+      "E": "1.090 mm (Altura plataforma de carga)",
+      "F": "910 mm (Voladizo delantero)",
+      "G": "1.650 mm (Ancho de vía)",
+      "H": "1.950 mm (Altura exterior)",
+      "I": "1.520 mm (Largo compartimiento tolva)"
+    },
+    "extra_dim": {
+      "longitud": "5.520 mm",
+      "ancho": "1.960 mm",
+      "alto": "1.950 mm",
+      "distancia_ejes": "3.300 mm",
+      "voladizo_del": "910 mm",
+      "voladizo_tras": "1.310 mm",
+      "despeje": "243 mm / 232 mm",
+      "radio_giro": "13.5 m (diámetro)"
+    },
+    "s1": {
+      "motor": [
+        [
+          "Tipo",
+          "PHEV Híbrido Enchufable / Motor 2.0T + Dual EV"
+        ],
+        [
+          "Admisión",
+          "Turbo intercooler naftero + Módulos eléctricos"
+        ],
+        [
+          "Inyección",
+          "Inyección directa GDI de alta precisión"
+        ],
+        [
+          "Potencia combinada",
+          "240 kW (322 HP)"
+        ],
+        [
+          "Torque combinado",
+          "800 Nm de par instantáneo"
+        ],
+        [
+          "Batería de tracción",
+          "Iones de litio de alta capacidad"
+        ],
+        [
+          "Carga rápida",
+          "46 min (DC Carga Rápida)"
+        ],
+        [
+          "Norma de emisión",
+          "Euro 6d / Cero Emisiones (Modo EV)"
+        ]
+      ],
+      "trans": [
+        [
+          "Marca",
+          "Dongfeng Dedicated Hybrid"
+        ],
+        [
+          "Modelo",
+          "4DHT Híbrida Inteligente"
+        ],
+        [
+          "Tipo",
+          "Transmisión multimodal serie-paralelo"
+        ],
+        [
+          "Gestión",
+          "Control vectorial de par inteligente"
+        ]
+      ],
+      "embrague": [
+        [
+          "Tipo",
+          "Convertidor de par hidráulico con embrague lock-up"
+        ],
+        [
+          "Control",
+          "Gestión electrónica integrada a la transmisión"
+        ],
+        [
+          "Bloqueo",
+          "Acople directo a velocidades de crucero"
+        ],
+        [
+          "Durabilidad",
+          "Fluido sintético de larga duración"
+        ]
+      ],
+      "electrico": [
+        [
+          "Voltaje alto voltaje",
+          "Sistema PHEV 350 V - 400 V nominal"
+        ],
+        [
+          "Batería de tracción",
+          "Iones de litio de alta densidad 31.8 kWh"
+        ],
+        [
+          "Batería auxiliar",
+          "12 V de ciclado profundo para electrónica"
+        ],
+        [
+          "Salida auxiliar V2L",
+          "Toma externa 220 V / 6 kW para herramientas"
+        ]
+      ],
+      "pesos": [
+        [
+          "Tara",
+          "2.470 kg (2.509 kg equipada)"
+        ],
+        [
+          "Peso bruto vehicular",
+          "3.235 kg"
+        ],
+        [
+          "Capacidad de carga",
+          "765 kg útil"
+        ],
+        [
+          "Distribución",
+          "50% delantero / 50% trasero"
+        ]
+      ],
+      "comb": [
+        [
+          "Tanque de combustible",
+          "Tanque presurizado reforzado"
+        ],
+        [
+          "Capacidad",
+          "73 Litros"
+        ],
+        [
+          "Batería eléctrica",
+          "31.8 kWh litio ferrofosfato"
+        ],
+        [
+          "Autonomía combinada",
+          "Más de 1.000 km (135 km modo EV puro)"
+        ]
+      ],
+      "frenos": [
+        [
+          "Tipo general",
+          "Frenos de disco en las cuatro ruedas (Four-Wheel Disc)"
+        ],
+        [
+          "Freno delantero",
+          "Discos ventilados con cáliper flotante"
+        ],
+        [
+          "Freno trasero",
+          "Discos macizos / ventilados de alta disipación"
+        ],
+        [
+          "Freno de estacionamiento",
+          "Electrónico (EPB) con función Auto-Hold"
+        ],
+        [
+          "Asistencias de serie",
+          "ABS, EBD, Asistente de frenado de pánico HBA / BOS"
+        ]
+      ],
+      "fluidos": [
+        [
+          "Aceite de motor",
+          "5.0 L (Sintético SAE 5W-30 / 0W-20 API SP)"
+        ],
+        [
+          "Líquido refrigerante",
+          "8.5 L (Refrigerante larga vida al 50%)"
+        ],
+        [
+          "Aceite de transmisión",
+          "7.0 L (Fluido certificado para transmisión)"
+        ],
+        [
+          "Líquido de frenos",
+          "1.0 L (DOT 4)"
+        ],
+        [
+          "Lavaparabrisas",
+          "4.0 L"
+        ]
+      ]
+    },
+    "s2": {
+      "eje_del": [
+        [
+          "Tipo",
+          "Semiejes de tracción con articulación homocinética"
+        ],
+        [
+          "Suspensión",
+          "Doble horquilla independiente con barra estabilizadora transversal"
+        ],
+        [
+          "Amortiguación",
+          "Amortiguadores telescópicos presurizados de doble acción"
+        ],
+        [
+          "Capacidad de carga",
+          "1.650 kg de carga frontal"
+        ],
+        [
+          "Rin de acero / aleación",
+          "Aleación de aluminio 18''"
+        ],
+        [
+          "Neumático",
+          "265/60 R18 (Todo Terreno AT)"
+        ]
+      ],
+      "eje_tras": [
+        [
+          "Reducción",
+          "Simple helicoidal / Motor eléctrico de tracción trasera (PHEV)"
+        ],
+        [
+          "Relación",
+          "Ajustada electrónicamente para máxima eficiencia"
+        ],
+        [
+          "Suspensión",
+          "Multilink independiente o ballestas parabólicas progresivas"
+        ],
+        [
+          "Diferencial",
+          "Bloqueo electrónico de diferencial trasero (E-Locker)"
+        ],
+        [
+          "Rin de acero / aleación",
+          "Aleación 18''"
+        ],
+        [
+          "Neumático",
+          "265/60 R18"
+        ]
+      ],
+      "chasis": [
+        [
+          "Estructura",
+          "Escalera reforzada de doble perfil cajonado cerrado"
+        ],
+        [
+          "Material",
+          "Acero de alta resistencia galvanizado de grado automotriz"
+        ],
+        [
+          "Protección inferior",
+          "Cubre-cárter, protector de caja de cambios y tanque"
+        ],
+        [
+          "Puntos de anclaje",
+          "Ganchos de remolque delantero y trasero para servicio pesado"
+        ],
+        [
+          "Tratamiento",
+          "Protección anticorrosiva por electrodeposición cataforética"
+        ]
+      ],
+      "cabina_dir": [
+        [
+          "Configuración",
+          "Doble cabina cuatro puertas / Capacidad 5 asientos confort"
+        ],
+        [
+          "Aislamiento",
+          "Cabina acústica NVH con doble burlete y vidrios laminados"
+        ],
+        [
+          "Mecanismo conductor",
+          "Asiento con ajuste en 6 direcciones y soporte lumbar"
+        ],
+        [
+          "Dirección",
+          "Bosch, sistema hidráulico asistido / Asistencia electrónica"
+        ],
+        [
+          "Volante",
+          "Columna de dirección colapsable y ajustable en altura y profundidad"
+        ]
+      ],
+      "interior": [
+        [
+          "Aire acondicionado",
+          "Climatizador inteligente de alto rendimiento con bomba de calor"
+        ],
+        [
+          "Pantalla multifuncional",
+          "Pantalla táctil HD de 12.8 pulgadas con telemetría híbrida"
+        ],
+        [
+          "Instrumentación",
+          "Panel de instrumentos completamente digital de 10.25 pulgadas"
+        ],
+        [
+          "Tomas auxiliares",
+          "Salida externa V2L de 220 V / 6 kW para herramientas"
+        ],
+        [
+          "Seguridad activa",
+          "8 Airbags, frenado autónomo y control de estabilidad ESC"
+        ],
+        [
+          "Cámara de visión",
+          "Cámara 540° con visión de ángulo muerto y retrovisor digital"
+        ],
+        [
+          "Asientos",
+          "Tapicería de cuero de alta costura con ajuste lumbar eléctrico"
+        ]
+      ]
+    },
+    "hero_image": "assets/z9_hero.jpg"
+  },
+  {
+    "id": "Z11A",
+    "tab": "Rich 6 4x2 5MT (Z11A)",
+    "title_h1": "DONGFENG RICH 6 · 4X2 5MT",
+    "title_h2": "DONGFENG RICH 6",
+    "vehiculo": "Pick-up Utilitaria de Carga Doble Cabina",
+    "marca": "DONGFENG",
+    "modelo": "Rich 6",
+    "version": "Z11A (Gasolina 2.4L 2WD 5MT)",
+    "traccion": "4x2 (Tracción Trasera 2WD)",
+    "badge_text": "PLATAFORMA NISSAN",
+    "badge_sub": "UTILITARIA 2.4L 5MT",
+    "diagram_label": "RICH 6 4X2 (DIMENSIONES EN MM)",
+    "cotas": {
+      "A": "3.150 mm (Distancia entre ejes)",
+      "B": "1.230 mm (Voladizo trasero)",
+      "C": "5.290 mm (Longitud total)",
+      "D": "910 mm (Eje frontal a cabina)",
+      "E": "1.050 mm (Altura piso de carga)",
+      "F": "910 mm (Voladizo delantero)",
+      "G": "1.570 mm (Trocha Delantera / Trasera)",
+      "H": "1.810 mm (1.850 mm con rieles)",
+      "I": "1.510 mm (Largo de tolva)"
+    },
+    "extra_dim": {
+      "longitud": "5.290 mm",
+      "ancho": "1.850 mm",
+      "alto": "1.810 mm",
+      "distancia_ejes": "3.150 mm",
+      "voladizo_del": "910 mm",
+      "voladizo_tras": "1.230 mm",
+      "despeje": "207 mm",
+      "radio_giro": "6.4 m"
+    },
+    "s1": {
+      "motor": [
+        [
+          "Tipo",
+          "2TZD / Gasolina aspirado 2.4L"
+        ],
+        [
+          "Admisión",
+          "Aspiración natural de flujo transversal"
+        ],
+        [
+          "Inyección",
+          "Inyección electrónica multipunto secuencial"
+        ],
+        [
+          "Número de cilindros",
+          "4 cilindros en línea, 16 válvulas"
+        ],
+        [
+          "Cilindrada",
+          "2.4 L (2.438 cc)"
+        ],
+        [
+          "Potencia",
+          "116 kW (156 HP) @ 4.800 rpm"
+        ],
+        [
+          "Torque",
+          "230 Nm @ 2.600 - 3.200 rpm"
+        ],
+        [
+          "Norma de emisión",
+          "Euro 4 / Euro 5"
+        ]
+      ],
+      "trans": [
+        [
+          "Marca",
+          "Zomax / Nissan Platform"
+        ],
+        [
+          "Modelo",
+          "5MT Manual sincrónica"
+        ],
+        [
+          "Tipo",
+          "5 velocidades hacia adelante + 1 reversa"
+        ],
+        [
+          "Tracción",
+          "2WD Trasera"
+        ]
+      ],
+      "embrague": [
+        [
+          "Tipo",
+          "Monodisco en seco con resorte diafragma"
+        ],
+        [
+          "Control",
+          "Hidráulico con bomba impulsora de asistencia"
+        ],
+        [
+          "Diámetro",
+          "260 mm reforzado para alta torsión"
+        ],
+        [
+          "Marca",
+          "Equipo original con certificación de fábrica"
+        ]
+      ],
+      "electrico": [
+        [
+          "Batería",
+          "12 V libre de mantenimiento de alto rendimiento (70-80 Ah)"
+        ],
+        [
+          "Alternador",
+          "14 V / 120 A - 150 A de alta salida"
+        ],
+        [
+          "Arranque",
+          "Motor de arranque eléctrico 12 V / 1.8 kW"
+        ],
+        [
+          "Fusibles y relés",
+          "Caja central sellada contra agua y polvo IP67"
+        ]
+      ],
+      "pesos": [
+        [
+          "Tara",
+          "1.785 kg"
+        ],
+        [
+          "Peso bruto vehicular",
+          "2.600 kg"
+        ],
+        [
+          "Capacidad de carga",
+          "500 kg (hasta 815 kg reforzada)"
+        ],
+        [
+          "Pasajeros",
+          "5 ocupantes"
+        ]
+      ],
+      "comb": [
+        [
+          "Tanque de combustible",
+          "Tanque reforzado con protección inferior"
+        ],
+        [
+          "Capacidad",
+          "73 Litros"
+        ],
+        [
+          "Alimentación",
+          "Bomba sumergida con regulador de retorno y filtro"
+        ]
+      ],
+      "frenos": [
+        [
+          "Freno delantero",
+          "Discos ventilados de servicio pesado"
+        ],
+        [
+          "Freno trasero",
+          "Tambor autoajustable con zapatas de alta fricción"
+        ],
+        [
+          "Freno de estacionamiento",
+          "Mecánico por cable sobre ruedas traseras"
+        ],
+        [
+          "Asistencias de serie",
+          "ABS antibloqueo con distribución electrónica EBD"
+        ]
+      ],
+      "fluidos": [
+        [
+          "Aceite de motor",
+          "5.0 L (Sintético SAE 5W-30 / 0W-20 API SP)"
+        ],
+        [
+          "Líquido refrigerante",
+          "8.5 L (Refrigerante larga vida al 50%)"
+        ],
+        [
+          "Aceite de transmisión",
+          "7.0 L (Fluido certificado para transmisión)"
+        ],
+        [
+          "Líquido de frenos",
+          "1.0 L (DOT 4)"
+        ],
+        [
+          "Lavaparabrisas",
+          "4.0 L"
+        ]
+      ]
+    },
+    "s2": {
+      "eje_del": [
+        [
+          "Tipo",
+          "Rótulas forjadas de servicio pesado (Chasis Nissan)"
+        ],
+        [
+          "Suspensión",
+          "Doble horquilla con barra estabilizadora y brazos reforzados"
+        ],
+        [
+          "Amortiguación",
+          "Amortiguadores hidráulicos telescópicos"
+        ],
+        [
+          "Capacidad de carga",
+          "1.300 kg"
+        ],
+        [
+          "Rin de acero / aleación",
+          "Aleación de aluminio 16''"
+        ],
+        [
+          "Neumático",
+          "255/70 R16"
+        ]
+      ],
+      "eje_tras": [
+        [
+          "Reducción",
+          "Simple, tipo Banjo reforzado laminado a presión"
+        ],
+        [
+          "Relación",
+          "Optimizada para fuerza motriz y economía de marcha"
+        ],
+        [
+          "Suspensión",
+          "Paquete de ballestas semielípticas sobre eje"
+        ],
+        [
+          "Capacidad de carga",
+          "1.800 kg de carga trasera"
+        ],
+        [
+          "Rin de acero / aleación",
+          "Aleación de aluminio 16''"
+        ],
+        [
+          "Neumático",
+          "255/70 R16"
+        ]
+      ],
+      "chasis": [
+        [
+          "Estructura",
+          "Escalera reforzada de doble perfil cajonado cerrado"
+        ],
+        [
+          "Material",
+          "Acero de alta resistencia galvanizado de grado automotriz"
+        ],
+        [
+          "Protección inferior",
+          "Cubre-cárter, protector de caja de cambios y tanque"
+        ],
+        [
+          "Puntos de anclaje",
+          "Ganchos de remolque delantero y trasero para servicio pesado"
+        ],
+        [
+          "Tratamiento",
+          "Protección anticorrosiva por electrodeposición cataforética"
+        ]
+      ],
+      "cabina_dir": [
+        [
+          "Configuración",
+          "Doble cabina utilitaria reforzada / 5 pasajeros"
+        ],
+        [
+          "Montaje de cabina",
+          "Montada sobre 6 tacos elásticos de absorción de impactos"
+        ],
+        [
+          "Mecanismo conductor",
+          "Asiento ergonómico con tapizado resistente de alto tráfico"
+        ],
+        [
+          "Dirección",
+          "Dirección asistida hidráulica de cremallera y piñón"
+        ],
+        [
+          "Volante",
+          "Volante de 3 radios colapsable con regulación de inclinación"
+        ]
+      ],
+      "interior": [
+        [
+          "Aire acondicionado",
+          "Manual de alto poder de refrigeración para climas cálidos"
+        ],
+        [
+          "Vidrios / Apertura",
+          "Alzacristales eléctricos y bloqueo central remoto"
+        ],
+        [
+          "Equipo de sonido",
+          "Radio AM/FM con conexión Bluetooth, puerto USB y AUX"
+        ],
+        [
+          "Indicadores",
+          "Odómetro digital, tacómetro y alerta de cinturones"
+        ],
+        [
+          "Seguridad",
+          "Doble airbag frontal de fábrica, ABS y anclajes infantiles"
+        ],
+        [
+          "Tapicería",
+          "Tapicería de tela de alta durabilidad y fácil limpieza"
+        ],
+        [
+          "Cámara / Sensores",
+          "Sensores de proximidad traseros con alarma sonora"
+        ]
+      ]
+    },
+    "hero_image": "assets/rich6_hero.webp"
+  },
+  {
+    "id": "Z22A",
+    "tab": "Rich 6 4x4 5MT (Z22A)",
+    "title_h1": "DONGFENG RICH 6 · 4X4 5MT",
+    "title_h2": "DONGFENG RICH 6",
+    "vehiculo": "Pick-up Todo Terreno Doble Cabina",
+    "marca": "DONGFENG",
+    "modelo": "Rich 6",
+    "version": "Z22A (Gasolina 2.4L 4WD 5MT)",
+    "traccion": "4x4 (Tracción 4WD con Reductora)",
+    "badge_text": "OFF-ROAD REFORZADA",
+    "badge_sub": "DOBLE TRACCIÓN 4X4",
+    "diagram_label": "RICH 6 4X4 (DIMENSIONES EN MM)",
+    "cotas": {
+      "A": "3.150 mm (Distancia entre ejes)",
+      "B": "1.230 mm (Voladizo trasero)",
+      "C": "5.290 mm (Longitud total)",
+      "D": "910 mm (Eje frontal a cabina)",
+      "E": "1.060 mm (Altura tolva al piso)",
+      "F": "910 mm (Voladizo delantero)",
+      "G": "1.570 mm (Trocha Delantera / Trasera)",
+      "H": "1.810 mm",
+      "I": "1.510 mm (Largo de tolva)"
+    },
+    "extra_dim": {
+      "longitud": "5.290 mm",
+      "ancho": "1.850 mm",
+      "alto": "1.810 mm",
+      "distancia_ejes": "3.150 mm",
+      "voladizo_del": "910 mm",
+      "voladizo_tras": "1.230 mm",
+      "despeje": "207 mm",
+      "radio_giro": "6.4 m"
+    },
+    "s1": {
+      "motor": [
+        [
+          "Tipo",
+          "2TZD / Gasolina aspirado 2.4L"
+        ],
+        [
+          "Admisión",
+          "Aspiración natural de flujo transversal"
+        ],
+        [
+          "Inyección",
+          "Inyección electrónica multipunto secuencial"
+        ],
+        [
+          "Número de cilindros",
+          "4 cilindros en línea, 16 válvulas"
+        ],
+        [
+          "Cilindrada",
+          "2.4 L (2.438 cc)"
+        ],
+        [
+          "Potencia",
+          "116 kW (156 HP) @ 4.800 rpm"
+        ],
+        [
+          "Torque",
+          "230 Nm @ 2.600 - 3.200 rpm"
+        ],
+        [
+          "Norma de emisión",
+          "Euro 4 / Euro 5"
+        ]
+      ],
+      "trans": [
+        [
+          "Marca",
+          "Zomax / Nissan Platform"
+        ],
+        [
+          "Modelo",
+          "5MT Manual sincrónica"
+        ],
+        [
+          "Tipo",
+          "5 velocidades hacia adelante + 1 reversa"
+        ],
+        [
+          "Tracción",
+          "4WD con caja reductora"
+        ]
+      ],
+      "embrague": [
+        [
+          "Tipo",
+          "Monodisco en seco con resorte diafragma"
+        ],
+        [
+          "Control",
+          "Hidráulico con bomba impulsora de asistencia"
+        ],
+        [
+          "Diámetro",
+          "260 mm reforzado para alta torsión"
+        ],
+        [
+          "Marca",
+          "Equipo original con certificación de fábrica"
+        ]
+      ],
+      "electrico": [
+        [
+          "Batería",
+          "12 V libre de mantenimiento de alto rendimiento (70-80 Ah)"
+        ],
+        [
+          "Alternador",
+          "14 V / 120 A - 150 A de alta salida"
+        ],
+        [
+          "Arranque",
+          "Motor de arranque eléctrico 12 V / 1.8 kW"
+        ],
+        [
+          "Fusibles y relés",
+          "Caja central sellada contra agua y polvo IP67"
+        ]
+      ],
+      "pesos": [
+        [
+          "Tara",
+          "1.785 kg"
+        ],
+        [
+          "Peso bruto vehicular",
+          "2.600 kg"
+        ],
+        [
+          "Capacidad de carga",
+          "500 kg (hasta 815 kg reforzada)"
+        ],
+        [
+          "Pasajeros",
+          "5 ocupantes"
+        ]
+      ],
+      "comb": [
+        [
+          "Tanque de combustible",
+          "Tanque reforzado con protección inferior"
+        ],
+        [
+          "Capacidad",
+          "73 Litros"
+        ],
+        [
+          "Alimentación",
+          "Bomba sumergida con regulador de retorno y filtro"
+        ]
+      ],
+      "frenos": [
+        [
+          "Freno delantero",
+          "Discos ventilados de servicio pesado"
+        ],
+        [
+          "Freno trasero",
+          "Tambor autoajustable con zapatas de alta fricción"
+        ],
+        [
+          "Freno de estacionamiento",
+          "Mecánico por cable sobre ruedas traseras"
+        ],
+        [
+          "Asistencias de serie",
+          "ABS antibloqueo con distribución electrónica EBD"
+        ]
+      ],
+      "fluidos": [
+        [
+          "Aceite de motor",
+          "5.0 L (Sintético SAE 5W-30 / 0W-20 API SP)"
+        ],
+        [
+          "Líquido refrigerante",
+          "8.5 L (Refrigerante larga vida al 50%)"
+        ],
+        [
+          "Aceite de transmisión",
+          "7.0 L (Fluido certificado para transmisión)"
+        ],
+        [
+          "Líquido de frenos",
+          "1.0 L (DOT 4)"
+        ],
+        [
+          "Lavaparabrisas",
+          "4.0 L"
+        ]
+      ]
+    },
+    "s2": {
+      "eje_del": [
+        [
+          "Tipo",
+          "Rótulas forjadas de servicio pesado (Chasis Nissan)"
+        ],
+        [
+          "Suspensión",
+          "Doble horquilla con barra estabilizadora y brazos reforzados"
+        ],
+        [
+          "Amortiguación",
+          "Amortiguadores hidráulicos telescópicos"
+        ],
+        [
+          "Capacidad de carga",
+          "1.300 kg"
+        ],
+        [
+          "Rin de acero / aleación",
+          "Aleación de aluminio 16''"
+        ],
+        [
+          "Neumático",
+          "255/70 R16"
+        ]
+      ],
+      "eje_tras": [
+        [
+          "Reducción",
+          "Simple, tipo Banjo reforzado laminado a presión"
+        ],
+        [
+          "Relación",
+          "Optimizada para fuerza motriz y economía de marcha"
+        ],
+        [
+          "Suspensión",
+          "Paquete de ballestas semielípticas sobre eje"
+        ],
+        [
+          "Capacidad de carga",
+          "1.800 kg de carga trasera"
+        ],
+        [
+          "Rin de acero / aleación",
+          "Aleación de aluminio 16''"
+        ],
+        [
+          "Neumático",
+          "255/70 R16"
+        ]
+      ],
+      "chasis": [
+        [
+          "Estructura",
+          "Escalera reforzada de doble perfil cajonado cerrado"
+        ],
+        [
+          "Material",
+          "Acero de alta resistencia galvanizado de grado automotriz"
+        ],
+        [
+          "Protección inferior",
+          "Cubre-cárter, protector de caja de cambios y tanque"
+        ],
+        [
+          "Puntos de anclaje",
+          "Ganchos de remolque delantero y trasero para servicio pesado"
+        ],
+        [
+          "Tratamiento",
+          "Protección anticorrosiva por electrodeposición cataforética"
+        ]
+      ],
+      "cabina_dir": [
+        [
+          "Configuración",
+          "Doble cabina utilitaria reforzada / 5 pasajeros"
+        ],
+        [
+          "Montaje de cabina",
+          "Montada sobre 6 tacos elásticos de absorción de impactos"
+        ],
+        [
+          "Mecanismo conductor",
+          "Asiento ergonómico con tapizado resistente de alto tráfico"
+        ],
+        [
+          "Dirección",
+          "Dirección asistida hidráulica de cremallera y piñón"
+        ],
+        [
+          "Volante",
+          "Volante de 3 radios colapsable con regulación de inclinación"
+        ]
+      ],
+      "interior": [
+        [
+          "Aire acondicionado",
+          "Manual de alto poder de refrigeración para climas cálidos"
+        ],
+        [
+          "Vidrios / Apertura",
+          "Alzacristales eléctricos y bloqueo central remoto"
+        ],
+        [
+          "Equipo de sonido",
+          "Radio AM/FM con conexión Bluetooth, puerto USB y AUX"
+        ],
+        [
+          "Indicadores",
+          "Odómetro digital, tacómetro y alerta de cinturones"
+        ],
+        [
+          "Seguridad",
+          "Doble airbag frontal de fábrica, ABS y anclajes infantiles"
+        ],
+        [
+          "Tapicería",
+          "Tapicería de tela de alta durabilidad y fácil limpieza"
+        ],
+        [
+          "Cámara / Sensores",
+          "Sensores de proximidad traseros con alarma sonora"
+        ]
+      ]
+    },
+    "hero_image": "assets/rich6_hero.webp"
+  },
+  {
+    "id": "Y38G",
+    "tab": "Rich 6 PRO 4x4 8AT (Y38G)",
+    "title_h1": "DONGFENG RICH 6 PRO · 4X4 8AT",
+    "title_h2": "DONGFENG RICH 6 PRO",
+    "vehiculo": "Pick-up Alta Potencia Doble Cabina",
+    "marca": "DONGFENG",
+    "modelo": "Rich 6 PRO Nuevo",
+    "version": "Y38G Turbo (2.0TD 168 kW 8AT)",
+    "traccion": "4x4 (Tracción Integral 4WD)",
+    "badge_text": "TURBO MITSUBISHI 8AT",
+    "badge_sub": "360 Nm · 8 SPEED AT",
+    "diagram_label": "RICH 6 PRO 8AT (DIMENSIONES EN MM)",
+    "cotas": {
+      "A": "3.150 mm (Distancia entre ejes)",
+      "B": "1.250 mm (Voladizo trasero)",
+      "C": "5.310 mm (Longitud total)",
+      "D": "910 mm (Eje frontal a cabina)",
+      "E": "1.060 mm (Altura tolva al piso)",
+      "F": "910 mm (Voladizo delantero)",
+      "G": "1.570 mm (Ancho de vía F/R)",
+      "H": "1.810 mm",
+      "I": "1.510 mm (Largo interior tolva)"
+    },
+    "extra_dim": {
+      "longitud": "5.310 mm",
+      "ancho": "1.850 mm",
+      "alto": "1.810 mm",
+      "distancia_ejes": "3.150 mm",
+      "voladizo_del": "910 mm",
+      "voladizo_tras": "1.250 mm",
+      "despeje": "207 mm",
+      "radio_giro": "6.4 m"
+    },
+    "s1": {
+      "motor": [
+        [
+          "Tipo",
+          "Mitsubishi 4K31TD / 2.0 Turbo"
+        ],
+        [
+          "Admisión",
+          "Turbocompresor con intercooler"
+        ],
+        [
+          "Inyección",
+          "Inyección directa estratificada GDI"
+        ],
+        [
+          "Número de cilindros",
+          "4 cilindros en línea DOHC"
+        ],
+        [
+          "Cilindrada",
+          "2.0 L (1.997 cc)"
+        ],
+        [
+          "Potencia",
+          "168 kW (225 HP) @ 5.600 rpm"
+        ],
+        [
+          "Torque",
+          "360 Nm @ 1.400 - 4.000 rpm"
+        ],
+        [
+          "Norma de emisión",
+          "Euro 5 / Euro 6"
+        ]
+      ],
+      "trans": [
+        [
+          "Marca",
+          "ZF / Dongfeng Power"
+        ],
+        [
+          "Modelo",
+          "8AT Automática con bloqueo hidráulico"
+        ],
+        [
+          "Tipo",
+          "8 velocidades adelante + reversa"
+        ],
+        [
+          "Tracción",
+          "4x4 Part-Time con reductora (2H / 4H / 4L)"
+        ]
+      ],
+      "embrague": [
+        [
+          "Tipo",
+          "Convertidor de par hidráulico con embrague lock-up"
+        ],
+        [
+          "Control",
+          "Gestión electrónica integrada a la transmisión"
+        ],
+        [
+          "Bloqueo",
+          "Acople directo a velocidades de crucero"
+        ],
+        [
+          "Durabilidad",
+          "Fluido sintético de larga duración"
+        ]
+      ],
+      "electrico": [
+        [
+          "Batería",
+          "12 V libre de mantenimiento de alto rendimiento (70-80 Ah)"
+        ],
+        [
+          "Alternador",
+          "14 V / 120 A - 150 A de alta salida"
+        ],
+        [
+          "Arranque",
+          "Motor de arranque eléctrico 12 V / 1.8 kW"
+        ],
+        [
+          "Fusibles y relés",
+          "Caja central sellada contra agua y polvo IP67"
+        ]
+      ],
+      "pesos": [
+        [
+          "Tara",
+          "1.855 kg"
+        ],
+        [
+          "Peso bruto vehicular",
+          "2.560 kg"
+        ],
+        [
+          "Capacidad de carga",
+          "490 kg (hasta 705 kg reforzada)"
+        ],
+        [
+          "Pasajeros",
+          "5 ocupantes"
+        ]
+      ],
+      "comb": [
+        [
+          "Tanque de combustible",
+          "Tanque reforzado con protección inferior"
+        ],
+        [
+          "Capacidad",
+          "73 Litros"
+        ],
+        [
+          "Alimentación",
+          "Bomba sumergida con regulador de retorno y filtro"
+        ]
+      ],
+      "frenos": [
+        [
+          "Freno delantero",
+          "Discos ventilados de servicio pesado"
+        ],
+        [
+          "Freno trasero",
+          "Tambor autoajustable con zapatas de alta fricción"
+        ],
+        [
+          "Freno de estacionamiento",
+          "Mecánico por cable sobre ruedas traseras"
+        ],
+        [
+          "Asistencias de serie",
+          "ABS antibloqueo con distribución electrónica EBD"
+        ]
+      ],
+      "fluidos": [
+        [
+          "Aceite de motor",
+          "5.0 L (Sintético SAE 5W-30 / 0W-20 API SP)"
+        ],
+        [
+          "Líquido refrigerante",
+          "8.5 L (Refrigerante larga vida al 50%)"
+        ],
+        [
+          "Aceite de transmisión",
+          "7.0 L (Fluido certificado para transmisión)"
+        ],
+        [
+          "Líquido de frenos",
+          "1.0 L (DOT 4)"
+        ],
+        [
+          "Lavaparabrisas",
+          "4.0 L"
+        ]
+      ]
+    },
+    "s2": {
+      "eje_del": [
+        [
+          "Tipo",
+          "Rótulas forjadas de servicio pesado (Chasis Nissan)"
+        ],
+        [
+          "Suspensión",
+          "Doble horquilla con barra estabilizadora y brazos reforzados"
+        ],
+        [
+          "Amortiguación",
+          "Amortiguadores hidráulicos telescópicos"
+        ],
+        [
+          "Capacidad de carga",
+          "1.300 kg"
+        ],
+        [
+          "Rin de acero / aleación",
+          "Aleación de aluminio 16''"
+        ],
+        [
+          "Neumático",
+          "255/70 R16"
+        ]
+      ],
+      "eje_tras": [
+        [
+          "Reducción",
+          "Simple, tipo Banjo reforzado laminado a presión"
+        ],
+        [
+          "Relación",
+          "Optimizada para fuerza motriz y economía de marcha"
+        ],
+        [
+          "Suspensión",
+          "Paquete de ballestas semielípticas sobre eje"
+        ],
+        [
+          "Capacidad de carga",
+          "1.800 kg de carga trasera"
+        ],
+        [
+          "Rin de acero / aleación",
+          "Aleación de aluminio 16''"
+        ],
+        [
+          "Neumático",
+          "255/70 R16"
+        ]
+      ],
+      "chasis": [
+        [
+          "Estructura",
+          "Escalera reforzada de doble perfil cajonado cerrado"
+        ],
+        [
+          "Material",
+          "Acero de alta resistencia galvanizado de grado automotriz"
+        ],
+        [
+          "Protección inferior",
+          "Cubre-cárter, protector de caja de cambios y tanque"
+        ],
+        [
+          "Puntos de anclaje",
+          "Ganchos de remolque delantero y trasero para servicio pesado"
+        ],
+        [
+          "Tratamiento",
+          "Protección anticorrosiva por electrodeposición cataforética"
+        ]
+      ],
+      "cabina_dir": [
+        [
+          "Configuración",
+          "Doble cabina utilitaria reforzada / 5 pasajeros"
+        ],
+        [
+          "Montaje de cabina",
+          "Montada sobre 6 tacos elásticos de absorción de impactos"
+        ],
+        [
+          "Mecanismo conductor",
+          "Asiento ergonómico con tapizado resistente de alto tráfico"
+        ],
+        [
+          "Dirección",
+          "Dirección asistida hidráulica de cremallera y piñón"
+        ],
+        [
+          "Volante",
+          "Volante de 3 radios colapsable con regulación de inclinación"
+        ]
+      ],
+      "interior": [
+        [
+          "Aire acondicionado",
+          "Climatizador electrónico digital con display integrado"
+        ],
+        [
+          "Pantalla multifuncional",
+          "Pantalla táctil multimedia con soporte para celular"
+        ],
+        [
+          "Vidrios / Alzacristales",
+          "Vidrios eléctricos con función un toque para el conductor"
+        ],
+        [
+          "Volante",
+          "Mandos de telefonía, control multimedia y control crucero"
+        ],
+        [
+          "Seguridad",
+          "Control de estabilidad ESC, control de tracción y frenos ABS+EBD"
+        ],
+        [
+          "Cámara de reversa",
+          "Cámara de reversa HD con guías dinámicas de estacionamiento"
+        ],
+        [
+          "Asientos",
+          "Ecocuero ergonómico de fácil mantenimiento y apoyabrazos central"
+        ]
+      ]
+    },
+    "hero_image": "assets/rich6_hero.webp"
+  },
+  {
+    "id": "Y38E",
+    "tab": "Rich 6 PRO 4x4 6MT (Y38E)",
+    "title_h1": "DONGFENG RICH 6 PRO · 4X4 6MT",
+    "title_h2": "DONGFENG RICH 6 PRO",
+    "vehiculo": "Pick-up Alta Potencia Doble Cabina",
+    "marca": "DONGFENG",
+    "modelo": "Rich 6 PRO Nuevo",
+    "version": "Y38E Turbo (2.0TD 168 kW 6MT)",
+    "traccion": "4x4 (Tracción Integral 4WD)",
+    "badge_text": "TURBO 360 Nm 6MT",
+    "badge_sub": "2.0TD MANUAL 6 VEL",
+    "diagram_label": "RICH 6 PRO 6MT (DIMENSIONES EN MM)",
+    "cotas": {
+      "A": "3.150 mm (Distancia entre ejes)",
+      "B": "1.250 mm (Voladizo trasero)",
+      "C": "5.310 mm (Longitud total)",
+      "D": "910 mm (Eje frontal a cabina)",
+      "E": "1.060 mm (Altura piso de carga)",
+      "F": "910 mm (Voladizo delantero)",
+      "G": "1.570 mm (Vía delantera y trasera)",
+      "H": "1.810 mm",
+      "I": "1.510 mm (Largo de tolva)"
+    },
+    "extra_dim": {
+      "longitud": "5.310 mm",
+      "ancho": "1.850 mm",
+      "alto": "1.810 mm",
+      "distancia_ejes": "3.150 mm",
+      "voladizo_del": "910 mm",
+      "voladizo_tras": "1.250 mm",
+      "despeje": "207 mm",
+      "radio_giro": "6.4 m"
+    },
+    "s1": {
+      "motor": [
+        [
+          "Tipo",
+          "Mitsubishi 4K31TD / 2.0 Turbo"
+        ],
+        [
+          "Admisión",
+          "Turbocompresor con intercooler"
+        ],
+        [
+          "Inyección",
+          "Inyección directa estratificada GDI"
+        ],
+        [
+          "Número de cilindros",
+          "4 cilindros en línea DOHC"
+        ],
+        [
+          "Cilindrada",
+          "2.0 L (1.997 cc)"
+        ],
+        [
+          "Potencia",
+          "168 kW (225 HP) @ 5.600 rpm"
+        ],
+        [
+          "Torque",
+          "360 Nm @ 1.400 - 4.000 rpm"
+        ],
+        [
+          "Norma de emisión",
+          "Euro 5 / Euro 6"
+        ]
+      ],
+      "trans": [
+        [
+          "Marca",
+          "Dongfeng Power"
+        ],
+        [
+          "Modelo",
+          "6MT Manual de 6 marchas"
+        ],
+        [
+          "Tipo",
+          "Sincrónica con embrague reforzado"
+        ],
+        [
+          "Tracción",
+          "4x4 Part-Time con reductora (2H / 4H / 4L)"
+        ]
+      ],
+      "embrague": [
+        [
+          "Tipo",
+          "Monodisco en seco con resorte diafragma"
+        ],
+        [
+          "Control",
+          "Hidráulico con bomba impulsora de asistencia"
+        ],
+        [
+          "Diámetro",
+          "260 mm reforzado para alta torsión"
+        ],
+        [
+          "Marca",
+          "Equipo original con certificación de fábrica"
+        ]
+      ],
+      "electrico": [
+        [
+          "Batería",
+          "12 V libre de mantenimiento de alto rendimiento (70-80 Ah)"
+        ],
+        [
+          "Alternador",
+          "14 V / 120 A - 150 A de alta salida"
+        ],
+        [
+          "Arranque",
+          "Motor de arranque eléctrico 12 V / 1.8 kW"
+        ],
+        [
+          "Fusibles y relés",
+          "Caja central sellada contra agua y polvo IP67"
+        ]
+      ],
+      "pesos": [
+        [
+          "Tara",
+          "1.855 kg"
+        ],
+        [
+          "Peso bruto vehicular",
+          "2.560 kg"
+        ],
+        [
+          "Capacidad de carga",
+          "490 kg (hasta 705 kg reforzada)"
+        ],
+        [
+          "Pasajeros",
+          "5 ocupantes"
+        ]
+      ],
+      "comb": [
+        [
+          "Tanque de combustible",
+          "Tanque reforzado con protección inferior"
+        ],
+        [
+          "Capacidad",
+          "73 Litros"
+        ],
+        [
+          "Alimentación",
+          "Bomba sumergida con regulador de retorno y filtro"
+        ]
+      ],
+      "frenos": [
+        [
+          "Freno delantero",
+          "Discos ventilados de servicio pesado"
+        ],
+        [
+          "Freno trasero",
+          "Tambor autoajustable con zapatas de alta fricción"
+        ],
+        [
+          "Freno de estacionamiento",
+          "Mecánico por cable sobre ruedas traseras"
+        ],
+        [
+          "Asistencias de serie",
+          "ABS antibloqueo con distribución electrónica EBD"
+        ]
+      ],
+      "fluidos": [
+        [
+          "Aceite de motor",
+          "5.0 L (Sintético SAE 5W-30 / 0W-20 API SP)"
+        ],
+        [
+          "Líquido refrigerante",
+          "8.5 L (Refrigerante larga vida al 50%)"
+        ],
+        [
+          "Aceite de transmisión",
+          "7.0 L (Fluido certificado para transmisión)"
+        ],
+        [
+          "Líquido de frenos",
+          "1.0 L (DOT 4)"
+        ],
+        [
+          "Lavaparabrisas",
+          "4.0 L"
+        ]
+      ]
+    },
+    "s2": {
+      "eje_del": [
+        [
+          "Tipo",
+          "Rótulas forjadas de servicio pesado (Chasis Nissan)"
+        ],
+        [
+          "Suspensión",
+          "Doble horquilla con barra estabilizadora y brazos reforzados"
+        ],
+        [
+          "Amortiguación",
+          "Amortiguadores hidráulicos telescópicos"
+        ],
+        [
+          "Capacidad de carga",
+          "1.300 kg"
+        ],
+        [
+          "Rin de acero / aleación",
+          "Aleación de aluminio 16''"
+        ],
+        [
+          "Neumático",
+          "255/70 R16"
+        ]
+      ],
+      "eje_tras": [
+        [
+          "Reducción",
+          "Simple, tipo Banjo reforzado laminado a presión"
+        ],
+        [
+          "Relación",
+          "Optimizada para fuerza motriz y economía de marcha"
+        ],
+        [
+          "Suspensión",
+          "Paquete de ballestas semielípticas sobre eje"
+        ],
+        [
+          "Capacidad de carga",
+          "1.800 kg de carga trasera"
+        ],
+        [
+          "Rin de acero / aleación",
+          "Aleación de aluminio 16''"
+        ],
+        [
+          "Neumático",
+          "255/70 R16"
+        ]
+      ],
+      "chasis": [
+        [
+          "Estructura",
+          "Escalera reforzada de doble perfil cajonado cerrado"
+        ],
+        [
+          "Material",
+          "Acero de alta resistencia galvanizado de grado automotriz"
+        ],
+        [
+          "Protección inferior",
+          "Cubre-cárter, protector de caja de cambios y tanque"
+        ],
+        [
+          "Puntos de anclaje",
+          "Ganchos de remolque delantero y trasero para servicio pesado"
+        ],
+        [
+          "Tratamiento",
+          "Protección anticorrosiva por electrodeposición cataforética"
+        ]
+      ],
+      "cabina_dir": [
+        [
+          "Configuración",
+          "Doble cabina utilitaria reforzada / 5 pasajeros"
+        ],
+        [
+          "Montaje de cabina",
+          "Montada sobre 6 tacos elásticos de absorción de impactos"
+        ],
+        [
+          "Mecanismo conductor",
+          "Asiento ergonómico con tapizado resistente de alto tráfico"
+        ],
+        [
+          "Dirección",
+          "Dirección asistida hidráulica de cremallera y piñón"
+        ],
+        [
+          "Volante",
+          "Volante de 3 radios colapsable con regulación de inclinación"
+        ]
+      ],
+      "interior": [
+        [
+          "Aire acondicionado",
+          "Climatizador electrónico digital con display integrado"
+        ],
+        [
+          "Pantalla multifuncional",
+          "Pantalla táctil multimedia con soporte para celular"
+        ],
+        [
+          "Vidrios / Alzacristales",
+          "Vidrios eléctricos con función un toque para el conductor"
+        ],
+        [
+          "Volante",
+          "Mandos de telefonía, control multimedia y control crucero"
+        ],
+        [
+          "Seguridad",
+          "Control de estabilidad ESC, control de tracción y frenos ABS+EBD"
+        ],
+        [
+          "Cámara de reversa",
+          "Cámara de reversa HD con guías dinámicas de estacionamiento"
+        ],
+        [
+          "Asientos",
+          "Ecocuero ergonómico de fácil mantenimiento y apoyabrazos central"
+        ]
+      ]
+    },
+    "hero_image": "assets/rich6_hero.webp"
+  },
+  {
+    "id": "W91A",
+    "tab": "Paladin 4x2 8AT (W91A)",
+    "title_h1": "DONGFENG PALADIN SUV · 4X2 8AT",
+    "title_h2": "DONGFENG PALADIN SUV",
+    "vehiculo": "SUV Todoterreno con Chasis de Escalera",
+    "marca": "DONGFENG",
+    "modelo": "Paladin SUV",
+    "version": "W91A STD (2.0TD Turbo 8AT)",
+    "traccion": "4x2 (Tracción Trasera RWD)",
+    "badge_text": "SUV CHASIS ESCALERA",
+    "badge_sub": "CONFORT URBANO 8AT",
+    "diagram_label": "PALADIN SUV 4X2 (DIMENSIONES EN MM)",
+    "cotas": {
+      "A": "2.850 mm (Distancia entre ejes)",
+      "B": "1.122 mm (Voladizo trasero)",
+      "C": "4.882 mm (Longitud total exterior)",
+      "D": "910 mm (Eje frontal a cabina)",
+      "E": "850 mm (Altura umbral maletero)",
+      "F": "910 mm (Voladizo delantero)",
+      "G": "1.570 mm (Trocha F/R)",
+      "H": "1.875 mm (Altura total con barras)",
+      "I": "1.100 mm (Profundidad de maletero)"
+    },
+    "extra_dim": {
+      "longitud": "4.882 mm",
+      "ancho": "1.850 mm",
+      "alto": "1.875 mm",
+      "distancia_ejes": "2.850 mm",
+      "voladizo_del": "910 mm",
+      "voladizo_tras": "1.122 mm",
+      "despeje": "215 mm",
+      "radio_giro": "5.7 m"
+    },
+    "s1": {
+      "motor": [
+        [
+          "Tipo",
+          "Mitsubishi 4K31 2.0TD / Turbo"
+        ],
+        [
+          "Admisión",
+          "Turbocompresor de geometría avanzada"
+        ],
+        [
+          "Inyección",
+          "Inyección directa GDI a alta presión"
+        ],
+        [
+          "Número de cilindros",
+          "4 cilindros en línea DOHC 16V"
+        ],
+        [
+          "Cilindrada",
+          "2.0 L (1.997 cc)"
+        ],
+        [
+          "Potencia",
+          "168 kW (225 HP) @ 5.600 rpm"
+        ],
+        [
+          "Torque",
+          "360 Nm @ 1.400 - 4.000 rpm"
+        ],
+        [
+          "Norma de emisión",
+          "Euro 5 / Euro 6"
+        ]
+      ],
+      "trans": [
+        [
+          "Marca",
+          "ZF 8AT Automatic"
+        ],
+        [
+          "Modelo",
+          "8HP de 8 velocidades con convertidor de par"
+        ],
+        [
+          "Tipo",
+          "Automática secuencial de alto torque"
+        ],
+        [
+          "Selector de terreno",
+          "Modos Sport, Nieve, Arena, Lodo, ECO"
+        ]
+      ],
+      "embrague": [
+        [
+          "Tipo",
+          "Convertidor de par hidráulico con embrague lock-up"
+        ],
+        [
+          "Control",
+          "Gestión electrónica integrada a la transmisión"
+        ],
+        [
+          "Bloqueo",
+          "Acople directo a velocidades de crucero"
+        ],
+        [
+          "Durabilidad",
+          "Fluido sintético de larga duración"
+        ]
+      ],
+      "electrico": [
+        [
+          "Batería",
+          "12 V libre de mantenimiento de alto rendimiento (70-80 Ah)"
+        ],
+        [
+          "Alternador",
+          "14 V / 120 A - 150 A de alta salida"
+        ],
+        [
+          "Arranque",
+          "Motor de arranque eléctrico 12 V / 1.8 kW"
+        ],
+        [
+          "Fusibles y relés",
+          "Caja central sellada contra agua y polvo IP67"
+        ]
+      ],
+      "pesos": [
+        [
+          "Tara",
+          "1.890 kg"
+        ],
+        [
+          "Peso bruto vehicular",
+          "2.501 kg"
+        ],
+        [
+          "Capacidad de carga",
+          "611 kg"
+        ],
+        [
+          "Capacidad de remolque",
+          "2.500 kg"
+        ]
+      ],
+      "comb": [
+        [
+          "Tanque de combustible",
+          "Tanque reforzado con protección inferior"
+        ],
+        [
+          "Capacidad",
+          "73 Litros"
+        ],
+        [
+          "Alimentación",
+          "Bomba sumergida con regulador de retorno y filtro"
+        ]
+      ],
+      "frenos": [
+        [
+          "Tipo general",
+          "Frenos de disco en las cuatro ruedas (Four-Wheel Disc)"
+        ],
+        [
+          "Freno delantero",
+          "Discos ventilados con cáliper flotante"
+        ],
+        [
+          "Freno trasero",
+          "Discos macizos / ventilados de alta disipación"
+        ],
+        [
+          "Freno de estacionamiento",
+          "Electrónico (EPB) con función Auto-Hold"
+        ],
+        [
+          "Asistencias de serie",
+          "ABS, EBD, Asistente de frenado de pánico HBA / BOS"
+        ]
+      ],
+      "fluidos": [
+        [
+          "Aceite de motor",
+          "5.0 L (Sintético SAE 5W-30 / 0W-20 API SP)"
+        ],
+        [
+          "Líquido refrigerante",
+          "8.5 L (Refrigerante larga vida al 50%)"
+        ],
+        [
+          "Aceite de transmisión",
+          "7.0 L (Fluido certificado para transmisión)"
+        ],
+        [
+          "Líquido de frenos",
+          "1.0 L (DOT 4)"
+        ],
+        [
+          "Lavaparabrisas",
+          "4.0 L"
+        ]
+      ]
+    },
+    "s2": {
+      "eje_del": [
+        [
+          "Tipo",
+          "Eje independiente articulado para SUV todoterreno"
+        ],
+        [
+          "Suspensión",
+          "Doble horquilla independiente con barra estabilizadora"
+        ],
+        [
+          "Amortiguación",
+          "Amortiguadores de gas bitubo de largo recorrido"
+        ],
+        [
+          "Capacidad de carga",
+          "1.450 kg"
+        ],
+        [
+          "Rin de acero / aleación",
+          "Aleación de aluminio 18''"
+        ],
+        [
+          "Neumático",
+          "265/60 R18 All-Terrain"
+        ]
+      ],
+      "eje_tras": [
+        [
+          "Reducción",
+          "Eje rígido guiado por 5 brazos articulados"
+        ],
+        [
+          "Relación",
+          "4x4 reductora para trepada off-road"
+        ],
+        [
+          "Suspensión",
+          "Multilink independiente con resortes helicoidales"
+        ],
+        [
+          "Diferencial",
+          "Bloqueo de diferencial trasero al 100% (Rear Locker)"
+        ],
+        [
+          "Rin de acero / aleación",
+          "Aleación 18''"
+        ],
+        [
+          "Neumático",
+          "265/60 R18"
+        ]
+      ],
+      "chasis": [
+        [
+          "Estructura",
+          "Escalera reforzada de doble perfil cajonado cerrado"
+        ],
+        [
+          "Material",
+          "Acero de alta resistencia galvanizado de grado automotriz"
+        ],
+        [
+          "Protección inferior",
+          "Cubre-cárter, protector de caja de cambios y tanque"
+        ],
+        [
+          "Puntos de anclaje",
+          "Ganchos de remolque delantero y trasero para servicio pesado"
+        ],
+        [
+          "Tratamiento",
+          "Protección anticorrosiva por electrodeposición cataforética"
+        ]
+      ],
+      "cabina_dir": [
+        [
+          "Configuración",
+          "SUV cerrado 5 puertas / 5 plazas de gran habitabilidad"
+        ],
+        [
+          "Insonorización",
+          "Paquete acústico premium de absorción de ruidos y vibraciones"
+        ],
+        [
+          "Mecanismo conductor",
+          "Butaca con regulación eléctrica de 8 posiciones"
+        ],
+        [
+          "Dirección",
+          "Dirección electroasistida EPS regulable según velocidad"
+        ],
+        [
+          "Volante",
+          "Volante multifunción forrado en cuero con mandos integrados"
+        ]
+      ],
+      "interior": [
+        [
+          "Aire acondicionado",
+          "Climatizador automático bizona con purificador de aire"
+        ],
+        [
+          "Pantalla multifuncional",
+          "Pantalla vertical HD de 12 pulgadas con conectividad"
+        ],
+        [
+          "Instrumentación",
+          "Panel de instrumentos a color de 7 pulgadas con pantalla off-road"
+        ],
+        [
+          "Asistencias ADAS",
+          "Control de crucero, Sensores perimétricos y cámara"
+        ],
+        [
+          "Cámara de visión",
+          "Cámara panorámica 360° con vista cenital e inclinómetro digital"
+        ],
+        [
+          "Techo",
+          "Techo solar panorámico con apertura eléctrica"
+        ],
+        [
+          "Asientos",
+          "Butacas en cuero con regulación eléctrica de 8 posiciones"
+        ]
+      ]
+    },
+    "hero_image": "assets/paladin_hero.jpg"
+  },
+  {
+    "id": "W92B",
+    "tab": "Paladin 4x4 8AT (W92B)",
+    "title_h1": "DONGFENG PALADIN SUV · 4X4 8AT",
+    "title_h2": "DONGFENG PALADIN SUV",
+    "vehiculo": "SUV Todoterreno con Chasis Independiente",
+    "marca": "DONGFENG",
+    "modelo": "Paladin SUV",
+    "version": "W92B MID (2.0TD Turbo 4WD 8AT)",
+    "traccion": "4x4 (Tracción 4WD con Modos)",
+    "badge_text": "SUV OFF-ROAD 4X4",
+    "badge_sub": "TODO TERRENO MID 8AT",
+    "diagram_label": "PALADIN SUV 4X4 MID (DIMENSIONES EN MM)",
+    "cotas": {
+      "A": "2.850 mm (Distancia entre ejes)",
+      "B": "1.122 mm (Voladizo trasero)",
+      "C": "4.882 mm (Longitud total exterior)",
+      "D": "910 mm (Eje frontal a cabina)",
+      "E": "850 mm (Altura piso maletero)",
+      "F": "910 mm (Voladizo delantero)",
+      "G": "1.570 mm (Trocha Delantera/Trasera)",
+      "H": "1.875 mm",
+      "I": "1.100 mm (Profundidad de maletero)"
+    },
+    "extra_dim": {
+      "longitud": "4.882 mm",
+      "ancho": "1.850 mm",
+      "alto": "1.875 mm",
+      "distancia_ejes": "2.850 mm",
+      "voladizo_del": "910 mm",
+      "voladizo_tras": "1.122 mm",
+      "despeje": "215 mm",
+      "radio_giro": "5.7 m"
+    },
+    "s1": {
+      "motor": [
+        [
+          "Tipo",
+          "Mitsubishi 4K31 2.0TD / Turbo"
+        ],
+        [
+          "Admisión",
+          "Turbocompresor de geometría avanzada"
+        ],
+        [
+          "Inyección",
+          "Inyección directa GDI a alta presión"
+        ],
+        [
+          "Número de cilindros",
+          "4 cilindros en línea DOHC 16V"
+        ],
+        [
+          "Cilindrada",
+          "2.0 L (1.997 cc)"
+        ],
+        [
+          "Potencia",
+          "168 kW (225 HP) @ 5.600 rpm"
+        ],
+        [
+          "Torque",
+          "360 Nm @ 1.400 - 4.000 rpm"
+        ],
+        [
+          "Norma de emisión",
+          "Euro 5 / Euro 6"
+        ]
+      ],
+      "trans": [
+        [
+          "Marca",
+          "ZF 8AT Automatic"
+        ],
+        [
+          "Modelo",
+          "8HP de 8 velocidades con convertidor de par"
+        ],
+        [
+          "Tipo",
+          "Automática secuencial de alto torque"
+        ],
+        [
+          "Selector de terreno",
+          "Modos Sport, Nieve, Arena, Lodo, ECO"
+        ]
+      ],
+      "embrague": [
+        [
+          "Tipo",
+          "Convertidor de par hidráulico con embrague lock-up"
+        ],
+        [
+          "Control",
+          "Gestión electrónica integrada a la transmisión"
+        ],
+        [
+          "Bloqueo",
+          "Acople directo a velocidades de crucero"
+        ],
+        [
+          "Durabilidad",
+          "Fluido sintético de larga duración"
+        ]
+      ],
+      "electrico": [
+        [
+          "Batería",
+          "12 V libre de mantenimiento de alto rendimiento (70-80 Ah)"
+        ],
+        [
+          "Alternador",
+          "14 V / 120 A - 150 A de alta salida"
+        ],
+        [
+          "Arranque",
+          "Motor de arranque eléctrico 12 V / 1.8 kW"
+        ],
+        [
+          "Fusibles y relés",
+          "Caja central sellada contra agua y polvo IP67"
+        ]
+      ],
+      "pesos": [
+        [
+          "Tara",
+          "1.950 kg"
+        ],
+        [
+          "Peso bruto vehicular",
+          "2.501 kg"
+        ],
+        [
+          "Capacidad de carga",
+          "551 kg"
+        ],
+        [
+          "Capacidad de remolque",
+          "2.500 kg"
+        ]
+      ],
+      "comb": [
+        [
+          "Tanque de combustible",
+          "Tanque reforzado con protección inferior"
+        ],
+        [
+          "Capacidad",
+          "73 Litros"
+        ],
+        [
+          "Alimentación",
+          "Bomba sumergida con regulador de retorno y filtro"
+        ]
+      ],
+      "frenos": [
+        [
+          "Tipo general",
+          "Frenos de disco en las cuatro ruedas (Four-Wheel Disc)"
+        ],
+        [
+          "Freno delantero",
+          "Discos ventilados con cáliper flotante"
+        ],
+        [
+          "Freno trasero",
+          "Discos macizos / ventilados de alta disipación"
+        ],
+        [
+          "Freno de estacionamiento",
+          "Electrónico (EPB) con función Auto-Hold"
+        ],
+        [
+          "Asistencias de serie",
+          "ABS, EBD, Asistente de frenado de pánico HBA / BOS"
+        ]
+      ],
+      "fluidos": [
+        [
+          "Aceite de motor",
+          "5.0 L (Sintético SAE 5W-30 / 0W-20 API SP)"
+        ],
+        [
+          "Líquido refrigerante",
+          "8.5 L (Refrigerante larga vida al 50%)"
+        ],
+        [
+          "Aceite de transmisión",
+          "7.0 L (Fluido certificado para transmisión)"
+        ],
+        [
+          "Líquido de frenos",
+          "1.0 L (DOT 4)"
+        ],
+        [
+          "Lavaparabrisas",
+          "4.0 L"
+        ]
+      ]
+    },
+    "s2": {
+      "eje_del": [
+        [
+          "Tipo",
+          "Eje independiente articulado para SUV todoterreno"
+        ],
+        [
+          "Suspensión",
+          "Doble horquilla independiente con barra estabilizadora"
+        ],
+        [
+          "Amortiguación",
+          "Amortiguadores de gas bitubo de largo recorrido"
+        ],
+        [
+          "Capacidad de carga",
+          "1.450 kg"
+        ],
+        [
+          "Rin de acero / aleación",
+          "Aleación de aluminio 18''"
+        ],
+        [
+          "Neumático",
+          "265/60 R18 All-Terrain"
+        ]
+      ],
+      "eje_tras": [
+        [
+          "Reducción",
+          "Eje rígido guiado por 5 brazos articulados"
+        ],
+        [
+          "Relación",
+          "4x4 reductora para trepada off-road"
+        ],
+        [
+          "Suspensión",
+          "Multilink independiente con resortes helicoidales"
+        ],
+        [
+          "Diferencial",
+          "Bloqueo de diferencial trasero al 100% (Rear Locker)"
+        ],
+        [
+          "Rin de acero / aleación",
+          "Aleación 18''"
+        ],
+        [
+          "Neumático",
+          "265/60 R18"
+        ]
+      ],
+      "chasis": [
+        [
+          "Estructura",
+          "Escalera reforzada de doble perfil cajonado cerrado"
+        ],
+        [
+          "Material",
+          "Acero de alta resistencia galvanizado de grado automotriz"
+        ],
+        [
+          "Protección inferior",
+          "Cubre-cárter, protector de caja de cambios y tanque"
+        ],
+        [
+          "Puntos de anclaje",
+          "Ganchos de remolque delantero y trasero para servicio pesado"
+        ],
+        [
+          "Tratamiento",
+          "Protección anticorrosiva por electrodeposición cataforética"
+        ]
+      ],
+      "cabina_dir": [
+        [
+          "Configuración",
+          "SUV cerrado 5 puertas / 5 plazas de gran habitabilidad"
+        ],
+        [
+          "Insonorización",
+          "Paquete acústico premium de absorción de ruidos y vibraciones"
+        ],
+        [
+          "Mecanismo conductor",
+          "Butaca con regulación eléctrica de 8 posiciones"
+        ],
+        [
+          "Dirección",
+          "Dirección electroasistida EPS regulable según velocidad"
+        ],
+        [
+          "Volante",
+          "Volante multifunción forrado en cuero con mandos integrados"
+        ]
+      ],
+      "interior": [
+        [
+          "Aire acondicionado",
+          "Climatizador automático bizona con purificador de aire"
+        ],
+        [
+          "Pantalla multifuncional",
+          "Pantalla vertical HD de 12 pulgadas con conectividad"
+        ],
+        [
+          "Instrumentación",
+          "Panel de instrumentos a color de 7 pulgadas con pantalla off-road"
+        ],
+        [
+          "Asistencias ADAS",
+          "Control de crucero, Sensores perimétricos y cámara"
+        ],
+        [
+          "Cámara de visión",
+          "Cámara panorámica 360° con vista cenital e inclinómetro digital"
+        ],
+        [
+          "Techo",
+          "Techo solar panorámico con apertura eléctrica"
+        ],
+        [
+          "Asientos",
+          "Butacas en cuero con regulación eléctrica de 8 posiciones"
+        ]
+      ]
+    },
+    "hero_image": "assets/paladin_hero.jpg"
+  },
+  {
+    "id": "W92C",
+    "tab": "Paladin 4x4 8AT ADAS (W92C)",
+    "title_h1": "DONGFENG PALADIN SUV · 4X4 8AT ADAS",
+    "title_h2": "DONGFENG PALADIN SUV",
+    "vehiculo": "SUV Todoterreno Premium con Asistencias ADAS",
+    "marca": "DONGFENG",
+    "modelo": "Paladin SUV",
+    "version": "W92C UPR (Flagship 4WD ADAS)",
+    "traccion": "4x4 (4WD con Bloqueo de Diferencial Trasero)",
+    "badge_text": "FLAGSHIP LUXURY 4X4",
+    "badge_sub": "PANTALLA 12'' & ADAS",
+    "diagram_label": "PALADIN SUV 4X4 FLAGSHIP (DIMENSIONES EN MM)",
+    "cotas": {
+      "A": "2.850 mm (Distancia entre ejes)",
+      "B": "1.122 mm (Voladizo trasero)",
+      "C": "4.882 mm (Longitud total)",
+      "D": "910 mm (Eje frontal a cabina)",
+      "E": "850 mm (Altura piso maletero)",
+      "F": "910 mm (Voladizo delantero)",
+      "G": "1.570 mm (Trocha Delantera/Trasera)",
+      "H": "1.875 mm",
+      "I": "1.100 mm (Profundidad maletero)"
+    },
+    "extra_dim": {
+      "longitud": "4.882 mm",
+      "ancho": "1.850 mm",
+      "alto": "1.875 mm",
+      "distancia_ejes": "2.850 mm",
+      "voladizo_del": "910 mm",
+      "voladizo_tras": "1.122 mm",
+      "despeje": "215 mm",
+      "radio_giro": "5.7 m"
+    },
+    "s1": {
+      "motor": [
+        [
+          "Tipo",
+          "Mitsubishi 4K31 2.0TD / Turbo"
+        ],
+        [
+          "Admisión",
+          "Turbocompresor de geometría avanzada"
+        ],
+        [
+          "Inyección",
+          "Inyección directa GDI a alta presión"
+        ],
+        [
+          "Número de cilindros",
+          "4 cilindros en línea DOHC 16V"
+        ],
+        [
+          "Cilindrada",
+          "2.0 L (1.997 cc)"
+        ],
+        [
+          "Potencia",
+          "168 kW (225 HP) @ 5.600 rpm"
+        ],
+        [
+          "Torque",
+          "360 Nm @ 1.400 - 4.000 rpm"
+        ],
+        [
+          "Norma de emisión",
+          "Euro 5 / Euro 6"
+        ]
+      ],
+      "trans": [
+        [
+          "Marca",
+          "ZF 8AT Automatic"
+        ],
+        [
+          "Modelo",
+          "8HP de 8 velocidades con convertidor de par"
+        ],
+        [
+          "Tipo",
+          "Automática secuencial de alto torque"
+        ],
+        [
+          "Selector de terreno",
+          "Modos Sport, Nieve, Arena, Lodo, ECO"
+        ]
+      ],
+      "embrague": [
+        [
+          "Tipo",
+          "Convertidor de par hidráulico con embrague lock-up"
+        ],
+        [
+          "Control",
+          "Gestión electrónica integrada a la transmisión"
+        ],
+        [
+          "Bloqueo",
+          "Acople directo a velocidades de crucero"
+        ],
+        [
+          "Durabilidad",
+          "Fluido sintético de larga duración"
+        ]
+      ],
+      "electrico": [
+        [
+          "Batería",
+          "12 V libre de mantenimiento de alto rendimiento (70-80 Ah)"
+        ],
+        [
+          "Alternador",
+          "14 V / 120 A - 150 A de alta salida"
+        ],
+        [
+          "Arranque",
+          "Motor de arranque eléctrico 12 V / 1.8 kW"
+        ],
+        [
+          "Fusibles y relés",
+          "Caja central sellada contra agua y polvo IP67"
+        ]
+      ],
+      "pesos": [
+        [
+          "Tara",
+          "1.950 kg"
+        ],
+        [
+          "Peso bruto vehicular",
+          "2.501 kg"
+        ],
+        [
+          "Capacidad de carga",
+          "551 kg"
+        ],
+        [
+          "Capacidad de remolque",
+          "2.500 kg"
+        ]
+      ],
+      "comb": [
+        [
+          "Tanque de combustible",
+          "Tanque reforzado con protección inferior"
+        ],
+        [
+          "Capacidad",
+          "73 Litros"
+        ],
+        [
+          "Alimentación",
+          "Bomba sumergida con regulador de retorno y filtro"
+        ]
+      ],
+      "frenos": [
+        [
+          "Tipo general",
+          "Frenos de disco en las cuatro ruedas (Four-Wheel Disc)"
+        ],
+        [
+          "Freno delantero",
+          "Discos ventilados con cáliper flotante"
+        ],
+        [
+          "Freno trasero",
+          "Discos macizos / ventilados de alta disipación"
+        ],
+        [
+          "Freno de estacionamiento",
+          "Electrónico (EPB) con función Auto-Hold"
+        ],
+        [
+          "Asistencias de serie",
+          "ABS, EBD, Asistente de frenado de pánico HBA / BOS"
+        ]
+      ],
+      "fluidos": [
+        [
+          "Aceite de motor",
+          "5.0 L (Sintético SAE 5W-30 / 0W-20 API SP)"
+        ],
+        [
+          "Líquido refrigerante",
+          "8.5 L (Refrigerante larga vida al 50%)"
+        ],
+        [
+          "Aceite de transmisión",
+          "7.0 L (Fluido certificado para transmisión)"
+        ],
+        [
+          "Líquido de frenos",
+          "1.0 L (DOT 4)"
+        ],
+        [
+          "Lavaparabrisas",
+          "4.0 L"
+        ]
+      ]
+    },
+    "s2": {
+      "eje_del": [
+        [
+          "Tipo",
+          "Eje independiente articulado para SUV todoterreno"
+        ],
+        [
+          "Suspensión",
+          "Doble horquilla independiente con barra estabilizadora"
+        ],
+        [
+          "Amortiguación",
+          "Amortiguadores de gas bitubo de largo recorrido"
+        ],
+        [
+          "Capacidad de carga",
+          "1.450 kg"
+        ],
+        [
+          "Rin de acero / aleación",
+          "Aleación de aluminio 18''"
+        ],
+        [
+          "Neumático",
+          "265/60 R18 All-Terrain"
+        ]
+      ],
+      "eje_tras": [
+        [
+          "Reducción",
+          "Eje rígido guiado por 5 brazos articulados"
+        ],
+        [
+          "Relación",
+          "4x4 reductora para trepada off-road"
+        ],
+        [
+          "Suspensión",
+          "Multilink independiente con resortes helicoidales"
+        ],
+        [
+          "Diferencial",
+          "Bloqueo de diferencial trasero al 100% (Rear Locker)"
+        ],
+        [
+          "Rin de acero / aleación",
+          "Aleación 18''"
+        ],
+        [
+          "Neumático",
+          "265/60 R18"
+        ]
+      ],
+      "chasis": [
+        [
+          "Estructura",
+          "Escalera reforzada de doble perfil cajonado cerrado"
+        ],
+        [
+          "Material",
+          "Acero de alta resistencia galvanizado de grado automotriz"
+        ],
+        [
+          "Protección inferior",
+          "Cubre-cárter, protector de caja de cambios y tanque"
+        ],
+        [
+          "Puntos de anclaje",
+          "Ganchos de remolque delantero y trasero para servicio pesado"
+        ],
+        [
+          "Tratamiento",
+          "Protección anticorrosiva por electrodeposición cataforética"
+        ]
+      ],
+      "cabina_dir": [
+        [
+          "Configuración",
+          "SUV cerrado 5 puertas / 5 plazas de gran habitabilidad"
+        ],
+        [
+          "Insonorización",
+          "Paquete acústico premium de absorción de ruidos y vibraciones"
+        ],
+        [
+          "Mecanismo conductor",
+          "Butaca con regulación eléctrica de 8 posiciones"
+        ],
+        [
+          "Dirección",
+          "Dirección electroasistida EPS regulable según velocidad"
+        ],
+        [
+          "Volante",
+          "Volante multifunción forrado en cuero con mandos integrados"
+        ]
+      ],
+      "interior": [
+        [
+          "Aire acondicionado",
+          "Climatizador automático bizona con purificador de aire"
+        ],
+        [
+          "Pantalla multifuncional",
+          "Pantalla vertical HD de 12 pulgadas con conectividad"
+        ],
+        [
+          "Instrumentación",
+          "Panel de instrumentos a color de 7 pulgadas con pantalla off-road"
+        ],
+        [
+          "Asistencias ADAS",
+          "Control crucero adaptativo, Frenado autónomo y Carril"
+        ],
+        [
+          "Cámara de visión",
+          "Cámara panorámica 360° con vista cenital e inclinómetro digital"
+        ],
+        [
+          "Techo",
+          "Techo solar panorámico con apertura eléctrica"
+        ],
+        [
+          "Asientos",
+          "Butacas en cuero con regulación eléctrica de 8 posiciones"
+        ]
+      ]
+    },
+    "hero_image": "assets/paladin_hero.jpg"
+  },
+  {
+    "id": "T5-LUX",
+    "tab": "T5 EVO Luxury 7DCT (T5-LUX)",
+    "title_h1": "FORTHING T5 EVO · 1.5TD LUXURY 7DCT",
+    "title_h2": "FORTHING T5 EVO",
+    "vehiculo": "SUV Deportivo Compacto de Alta Gama",
+    "marca": "FORTHING (DONGFENG)",
+    "modelo": "T5 EVO",
+    "version": "1.5TD Luxury (Doble Embrague 7DCT)",
+    "traccion": "FWD (Tracción Delantera)",
+    "badge_text": "SPORT SUV 195 HP",
+    "badge_sub": "MITSUBISHI 4A95TD",
+    "diagram_label": "T5 EVO SPORT SUV (DIMENSIONES EN MM)",
+    "cotas": {
+      "A": "2.715 mm (Distancia entre ejes)",
+      "B": "960 mm (Voladizo trasero)",
+      "C": "4.565 mm (Longitud total exterior)",
+      "D": "890 mm (Eje frontal al mamparo)",
+      "E": "740 mm (Altura piso maletero)",
+      "F": "890 mm (Voladizo delantero)",
+      "G": "1.590 mm (Trocha delantera / trasera)",
+      "H": "1.690 mm (Altura deportiva)",
+      "I": "920 mm (Profundidad piso maletero)"
+    },
+    "extra_dim": {
+      "longitud": "4.565 mm",
+      "ancho": "1.860 mm",
+      "alto": "1.690 mm",
+      "distancia_ejes": "2.715 mm",
+      "voladizo_del": "890 mm",
+      "voladizo_tras": "960 mm",
+      "despeje": "195 mm",
+      "radio_giro": "5.4 m"
+    },
+    "s1": {
+      "motor": [
+        [
+          "Tipo",
+          "Shenyang Mitsubishi 4A95TD / 1.5TD"
+        ],
+        [
+          "Admisión",
+          "Turbocharger con intercooler frontal"
+        ],
+        [
+          "Inyección",
+          "Inyección directa GDI + DVVT"
+        ],
+        [
+          "Número de cilindros",
+          "4 cilindros en línea, 16 válvulas"
+        ],
+        [
+          "Cilindrada",
+          "1.5 L (1.481 cc)"
+        ],
+        [
+          "Potencia",
+          "145 kW (195 HP) @ 5.600 rpm"
+        ],
+        [
+          "Torque",
+          "285 Nm @ 1.500 - 4.000 rpm"
+        ],
+        [
+          "Norma de emisión",
+          "Euro 6b"
+        ]
+      ],
+      "trans": [
+        [
+          "Marca",
+          "Magna / Gertrag 7DCT"
+        ],
+        [
+          "Modelo",
+          "7DCT Doble embrague húmedo"
+        ],
+        [
+          "Tipo",
+          "Automática secuencial deportiva de 7 marchas"
+        ],
+        [
+          "Respuesta",
+          "Cambios de marcha en menos de 0.2 segundos"
+        ]
+      ],
+      "embrague": [
+        [
+          "Tipo",
+          "Doble embrague húmedo multidisco bañado en aceite"
+        ],
+        [
+          "Control",
+          "Módulo electrohidráulico TCU de alta precisión"
+        ],
+        [
+          "Refrigeración",
+          "Circuito de aceite presurizado de disipación"
+        ],
+        [
+          "Mantenimiento",
+          "Libre de ajuste mecánico de disco"
+        ]
+      ],
+      "electrico": [
+        [
+          "Batería",
+          "12 V libre de mantenimiento de alto rendimiento (70-80 Ah)"
+        ],
+        [
+          "Alternador",
+          "14 V / 120 A - 150 A de alta salida"
+        ],
+        [
+          "Arranque",
+          "Motor de arranque eléctrico 12 V / 1.8 kW"
+        ],
+        [
+          "Fusibles y relés",
+          "Caja central sellada contra agua y polvo IP67"
+        ]
+      ],
+      "pesos": [
+        [
+          "Tara",
+          "1.550 kg"
+        ],
+        [
+          "Peso bruto vehicular",
+          "1.995 kg"
+        ],
+        [
+          "Capacidad de carga",
+          "445 kg"
+        ],
+        [
+          "Volumen maletero",
+          "480 L (expandible a 1.480 L)"
+        ]
+      ],
+      "comb": [
+        [
+          "Tanque de combustible",
+          "Tanque liviano de polímero de seguridad"
+        ],
+        [
+          "Capacidad",
+          "55 Litros"
+        ],
+        [
+          "Alimentación",
+          "Bomba eléctrica de alta presión GDI (350 bar)"
+        ]
+      ],
+      "frenos": [
+        [
+          "Tipo general",
+          "Frenos de disco en las cuatro ruedas (Four-Wheel Disc)"
+        ],
+        [
+          "Freno delantero",
+          "Discos ventilados con cáliper flotante"
+        ],
+        [
+          "Freno trasero",
+          "Discos macizos / ventilados de alta disipación"
+        ],
+        [
+          "Freno de estacionamiento",
+          "Electrónico (EPB) con función Auto-Hold"
+        ],
+        [
+          "Asistencias de serie",
+          "ABS, EBD, Asistente de frenado de pánico HBA / BOS"
+        ]
+      ],
+      "fluidos": [
+        [
+          "Aceite de motor",
+          "5.0 L (Sintético SAE 5W-30 / 0W-20 API SP)"
+        ],
+        [
+          "Líquido refrigerante",
+          "8.5 L (Refrigerante larga vida al 50%)"
+        ],
+        [
+          "Aceite de transmisión",
+          "7.0 L (Fluido certificado para transmisión)"
+        ],
+        [
+          "Líquido de frenos",
+          "1.0 L (DOT 4)"
+        ],
+        [
+          "Lavaparabrisas",
+          "4.0 L"
+        ]
+      ]
+    },
+    "s2": {
+      "eje_del": [
+        [
+          "Tipo",
+          "Tracción delantera con diferencial integrado a la caja DCT"
+        ],
+        [
+          "Suspensión",
+          "Independiente tipo MacPherson con barra estabilizadora"
+        ],
+        [
+          "Amortiguación",
+          "Amortiguadores telescópicos progresivos deportivos"
+        ],
+        [
+          "Capacidad de carga",
+          "1.100 kg"
+        ],
+        [
+          "Rin de acero / aleación",
+          "Aleación ligera deportiva de 19'' en acabado negro"
+        ],
+        [
+          "Neumático",
+          "235/55 R19 de ultra alto agarre"
+        ]
+      ],
+      "eje_tras": [
+        [
+          "Reducción",
+          "Eje trasero portante independiente"
+        ],
+        [
+          "Relación",
+          "Alineada con control de estabilidad de viraje"
+        ],
+        [
+          "Suspensión",
+          "Multi-link independiente multibrazo con estabilizadora"
+        ],
+        [
+          "Amortiguación",
+          "Resortes espirales progresivos y amortiguador a gas"
+        ],
+        [
+          "Rin de acero / aleación",
+          "Aleación deportiva 19''"
+        ],
+        [
+          "Neumático",
+          "235/55 R19"
+        ]
+      ],
+      "chasis": [
+        [
+          "Estructura",
+          "Carrocería autoportante monocasco de ultra alta rigidez"
+        ],
+        [
+          "Acero avanzado",
+          "76% de aceros de ultra-alta y alta resistencia estampados"
+        ],
+        [
+          "Seguridad pasiva",
+          "Zonas de deformación programada frontal y posterior"
+        ],
+        [
+          "Refuerzos",
+          "Barras de acero al boro anti-impacto en las 4 puertas"
+        ],
+        [
+          "Subchasis",
+          "Subchasis aislante hidroformado de doble soporte"
+        ]
+      ],
+      "cabina_dir": [
+        [
+          "Configuración",
+          "SUV crossover deportivo 5 puertas / 5 ocupantes"
+        ],
+        [
+          "Diseño interior",
+          "Cockpit envolvente inspirado en aeronáutica deportiva"
+        ],
+        [
+          "Mecanismo conductor",
+          "Butaca deportiva con ajuste eléctrico y memoria"
+        ],
+        [
+          "Dirección",
+          "Dirección electroasistida con 3 modos de tacto (Sport/Comfort/Normal)"
+        ],
+        [
+          "Volante",
+          "Volante deportivo achatado en base (D-Cut) forrado en microfibra"
+        ]
+      ],
+      "interior": [
+        [
+          "Aire acondicionado",
+          "Climatizador automático inteligente con salidas traseras"
+        ],
+        [
+          "Doble pantalla",
+          "Doble pantalla panorámica digital de 10.25'' + 10.25'' integrada"
+        ],
+        [
+          "Techo solar",
+          "Techo panorámico corredizo de apertura total con cortina eléctrica"
+        ],
+        [
+          "Asientos",
+          "Butacas deportivas ergonómicas envolventes en eco-cuero"
+        ],
+        [
+          "Asistencias ADAS",
+          "Cámara de reversa, Control de descenso HDC y crucero"
+        ],
+        [
+          "Conectividad",
+          "Apple CarPlay, Bluetooth manos libres y puertos rápidos de carga"
+        ],
+        [
+          "Audio",
+          "Sistema de audio envolvente de 6 parlantes de alta fidelidad"
+        ]
+      ]
+    },
+    "hero_image": "assets/t5_hero.jpg"
+  },
+  {
+    "id": "T5-EXC",
+    "tab": "T5 EVO Exclusive 7DCT (T5-EXC)",
+    "title_h1": "FORTHING T5 EVO · 1.5TD EXCLUSIVE 7DCT",
+    "title_h2": "FORTHING T5 EVO",
+    "vehiculo": "SUV Deportivo Tecnológico con ADAS",
+    "marca": "FORTHING (DONGFENG)",
+    "modelo": "T5 EVO",
+    "version": "1.5TD Exclusive (ADAS L2+ 7DCT)",
+    "traccion": "FWD (Tracción Delantera)",
+    "badge_text": "EXCLUSIVE ADAS TECH",
+    "badge_sub": "SEGURIDAD ACTIVA L2+",
+    "diagram_label": "T5 EVO EXCLUSIVE (DIMENSIONES EN MM)",
+    "cotas": {
+      "A": "2.715 mm (Distancia entre ejes)",
+      "B": "960 mm (Voladizo trasero)",
+      "C": "4.565 mm (Longitud total)",
+      "D": "890 mm (Eje frontal al mamparo)",
+      "E": "740 mm (Altura piso maletero)",
+      "F": "890 mm (Voladizo delantero)",
+      "G": "1.590 mm (Trocha delantera / trasera)",
+      "H": "1.690 mm",
+      "I": "920 mm (Profundidad piso maletero)"
+    },
+    "extra_dim": {
+      "longitud": "4.565 mm",
+      "ancho": "1.860 mm",
+      "alto": "1.690 mm",
+      "distancia_ejes": "2.715 mm",
+      "voladizo_del": "890 mm",
+      "voladizo_tras": "960 mm",
+      "despeje": "195 mm",
+      "radio_giro": "5.4 m"
+    },
+    "s1": {
+      "motor": [
+        [
+          "Tipo",
+          "Shenyang Mitsubishi 4A95TD / 1.5TD"
+        ],
+        [
+          "Admisión",
+          "Turbocharger con intercooler frontal"
+        ],
+        [
+          "Inyección",
+          "Inyección directa GDI + DVVT"
+        ],
+        [
+          "Número de cilindros",
+          "4 cilindros en línea, 16 válvulas"
+        ],
+        [
+          "Cilindrada",
+          "1.5 L (1.481 cc)"
+        ],
+        [
+          "Potencia",
+          "145 kW (195 HP) @ 5.600 rpm"
+        ],
+        [
+          "Torque",
+          "285 Nm @ 1.500 - 4.000 rpm"
+        ],
+        [
+          "Norma de emisión",
+          "Euro 6b"
+        ]
+      ],
+      "trans": [
+        [
+          "Marca",
+          "Magna / Gertrag 7DCT"
+        ],
+        [
+          "Modelo",
+          "7DCT Doble embrague húmedo"
+        ],
+        [
+          "Tipo",
+          "Automática secuencial deportiva de 7 marchas"
+        ],
+        [
+          "Respuesta",
+          "Cambios de marcha en menos de 0.2 segundos"
+        ]
+      ],
+      "embrague": [
+        [
+          "Tipo",
+          "Doble embrague húmedo multidisco bañado en aceite"
+        ],
+        [
+          "Control",
+          "Módulo electrohidráulico TCU de alta precisión"
+        ],
+        [
+          "Refrigeración",
+          "Circuito de aceite presurizado de disipación"
+        ],
+        [
+          "Mantenimiento",
+          "Libre de ajuste mecánico de disco"
+        ]
+      ],
+      "electrico": [
+        [
+          "Batería",
+          "12 V libre de mantenimiento de alto rendimiento (70-80 Ah)"
+        ],
+        [
+          "Alternador",
+          "14 V / 120 A - 150 A de alta salida"
+        ],
+        [
+          "Arranque",
+          "Motor de arranque eléctrico 12 V / 1.8 kW"
+        ],
+        [
+          "Fusibles y relés",
+          "Caja central sellada contra agua y polvo IP67"
+        ]
+      ],
+      "pesos": [
+        [
+          "Tara",
+          "1.550 kg"
+        ],
+        [
+          "Peso bruto vehicular",
+          "1.995 kg"
+        ],
+        [
+          "Capacidad de carga",
+          "445 kg"
+        ],
+        [
+          "Volumen maletero",
+          "480 L (expandible a 1.480 L)"
+        ]
+      ],
+      "comb": [
+        [
+          "Tanque de combustible",
+          "Tanque liviano de polímero de seguridad"
+        ],
+        [
+          "Capacidad",
+          "55 Litros"
+        ],
+        [
+          "Alimentación",
+          "Bomba eléctrica de alta presión GDI (350 bar)"
+        ]
+      ],
+      "frenos": [
+        [
+          "Tipo general",
+          "Frenos de disco en las cuatro ruedas (Four-Wheel Disc)"
+        ],
+        [
+          "Freno delantero",
+          "Discos ventilados con cáliper flotante"
+        ],
+        [
+          "Freno trasero",
+          "Discos macizos / ventilados de alta disipación"
+        ],
+        [
+          "Freno de estacionamiento",
+          "Electrónico (EPB) con función Auto-Hold"
+        ],
+        [
+          "Asistencias de serie",
+          "ABS, EBD, Asistente de frenado de pánico HBA / BOS"
+        ]
+      ],
+      "fluidos": [
+        [
+          "Aceite de motor",
+          "5.0 L (Sintético SAE 5W-30 / 0W-20 API SP)"
+        ],
+        [
+          "Líquido refrigerante",
+          "8.5 L (Refrigerante larga vida al 50%)"
+        ],
+        [
+          "Aceite de transmisión",
+          "7.0 L (Fluido certificado para transmisión)"
+        ],
+        [
+          "Líquido de frenos",
+          "1.0 L (DOT 4)"
+        ],
+        [
+          "Lavaparabrisas",
+          "4.0 L"
+        ]
+      ]
+    },
+    "s2": {
+      "eje_del": [
+        [
+          "Tipo",
+          "Tracción delantera con diferencial integrado a la caja DCT"
+        ],
+        [
+          "Suspensión",
+          "Independiente tipo MacPherson con barra estabilizadora"
+        ],
+        [
+          "Amortiguación",
+          "Amortiguadores telescópicos progresivos deportivos"
+        ],
+        [
+          "Capacidad de carga",
+          "1.100 kg"
+        ],
+        [
+          "Rin de acero / aleación",
+          "Aleación ligera deportiva de 19'' en acabado negro"
+        ],
+        [
+          "Neumático",
+          "235/55 R19 de ultra alto agarre"
+        ]
+      ],
+      "eje_tras": [
+        [
+          "Reducción",
+          "Eje trasero portante independiente"
+        ],
+        [
+          "Relación",
+          "Alineada con control de estabilidad de viraje"
+        ],
+        [
+          "Suspensión",
+          "Multi-link independiente multibrazo con estabilizadora"
+        ],
+        [
+          "Amortiguación",
+          "Resortes espirales progresivos y amortiguador a gas"
+        ],
+        [
+          "Rin de acero / aleación",
+          "Aleación deportiva 19''"
+        ],
+        [
+          "Neumático",
+          "235/55 R19"
+        ]
+      ],
+      "chasis": [
+        [
+          "Estructura",
+          "Carrocería autoportante monocasco de ultra alta rigidez"
+        ],
+        [
+          "Acero avanzado",
+          "76% de aceros de ultra-alta y alta resistencia estampados"
+        ],
+        [
+          "Seguridad pasiva",
+          "Zonas de deformación programada frontal y posterior"
+        ],
+        [
+          "Refuerzos",
+          "Barras de acero al boro anti-impacto en las 4 puertas"
+        ],
+        [
+          "Subchasis",
+          "Subchasis aislante hidroformado de doble soporte"
+        ]
+      ],
+      "cabina_dir": [
+        [
+          "Configuración",
+          "SUV crossover deportivo 5 puertas / 5 ocupantes"
+        ],
+        [
+          "Diseño interior",
+          "Cockpit envolvente inspirado en aeronáutica deportiva"
+        ],
+        [
+          "Mecanismo conductor",
+          "Butaca deportiva con ajuste eléctrico y memoria"
+        ],
+        [
+          "Dirección",
+          "Dirección electroasistida con 3 modos de tacto (Sport/Comfort/Normal)"
+        ],
+        [
+          "Volante",
+          "Volante deportivo achatado en base (D-Cut) forrado en microfibra"
+        ]
+      ],
+      "interior": [
+        [
+          "Aire acondicionado",
+          "Climatizador automático inteligente con salidas traseras"
+        ],
+        [
+          "Doble pantalla",
+          "Doble pantalla panorámica digital de 10.25'' + 10.25'' integrada"
+        ],
+        [
+          "Techo solar",
+          "Techo panorámico corredizo de apertura total con cortina eléctrica"
+        ],
+        [
+          "Asientos",
+          "Butacas deportivas ergonómicas envolventes en eco-cuero"
+        ],
+        [
+          "Asistencias ADAS",
+          "Monitoreo punto ciego BSD, Aviso cambio carril LDW"
+        ],
+        [
+          "Conectividad",
+          "Apple CarPlay, Bluetooth manos libres y puertos rápidos de carga"
+        ],
+        [
+          "Audio",
+          "Sistema de audio envolvente de 6 parlantes de alta fidelidad"
+        ]
+      ]
+    },
+    "hero_image": "assets/t5_hero.jpg"
+  }
+]
